@@ -72,8 +72,8 @@ Whether you’re an industry partner, researcher, or student, We’d love to hea
 
 ## 💡 Research & Proposals
 I have completed two research projects:
-- Design and analysis of distributed optimization algorithm based on event-triggered mechanism, 61803056, 2019.01-2021.12, granted by National Nature Science Foundation of China.
--	Design and analysis of distributed optimization algorithm for large scale systems, cstc2018jcyjAX0365, 2018.08-2021.07, granted by Nature Science Foundation of Chongqing.
+- Design and analysis of distributed optimization algorithm based on event-triggered mechanism, 61803056, granted by National Nature Science Foundation of China, *2019.01-2021.12*.
+-	Design and analysis of distributed optimization algorithm for large scale systems, cstc2018jcyjAX0365, granted by Nature Science Foundation of Chongqing, *2018.08-2021.07*.
   
 We welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
@@ -84,3 +84,4 @@ We offer tailored presentations, workshops, and guest lectures for academic, civ
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
