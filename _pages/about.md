@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Bo Zhou"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -86,5 +86,6 @@ We offer tailored presentations, workshops, and guest lectures for academic, civ
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
