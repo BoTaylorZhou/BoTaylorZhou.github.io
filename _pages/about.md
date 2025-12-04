@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Bo Zhou"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -171,3 +171,4 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
