@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🐇 About me
+
 I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong University. My research interest includes Systems Science, Traffic and Transportation, and Machine Learning. I am very fortunate to be supervised by Prof. Qiankun Song in Computer Science, Chongqing Jiaotong University and Prof. Xiaofeng Liao in Applied Mathemtics, Southwest University. I was also very fortunate to visit Prof. Tingwen Huang in Science Progam, Texas A&M University at Qatar and Prof. Ronghui Liu in Institute of Transport Studies, University of Leeds. 
 
 # 🔥 News
@@ -84,4 +86,5 @@ We offer tailored presentations, workshops, and guest lectures for academic, civ
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
