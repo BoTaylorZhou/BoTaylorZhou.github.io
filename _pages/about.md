@@ -69,7 +69,7 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 - *2024.07*, Bo Zhou, **Ronghui Liu (Presenter)**. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, USA. 
 - *2025.06*, **Bo Zhou (Presenter)**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
 
-# 🚀 Connect With me
+# 🚀 Contact With me
 Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
 
 ## 💡 Research & Proposals
@@ -82,5 +82,6 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
