@@ -61,8 +61,9 @@ I have visited Texas A&M University at Qatar for three months when working towar
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
 # 💬 Conference Talks
-- *2011.05*, **Yupei Lv (Presenter)**, Bo Zhou, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
+- *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 - *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
+- *2019.12*, Huiwei Wang, **Yong Zhao (Presenter)**, Qingya Wang, Bo Zhou. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
 - *2021.05*, **Xiwen Bao (Presenter)**, Bo Zhou, Huiwei Wang. [Distributed event-triggered projection subgradient algorithm over unbalanced digraphs based on row-stochastic matrices](https://ieeexplore.ieee.org/document/9440630). 11th International Conference on Information Science and Technology (ICIST), Chengdu, China.
 - *2021.10*, **Wei Chen (Presenter)**, Bo Zhou, Huiwei Wang. [On controllability of transportation networks with fractional-order dynamics](https://ieeexplore.ieee.org/document/9607949). 2021 International Conference on Neuromorphic Computing (ICNC), Wuhan, China.
 - *2023.01*, **Silu He (Presenter)**, Bo Zhou. [A Benders dual decomposition approach for multi-area economic dispatch with valve point effect](https://ieeexplore.ieee.org/document/10175311). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
@@ -86,6 +87,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
