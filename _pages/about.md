@@ -19,15 +19,15 @@ redirect_from:
 
 # 🐇 About me
 
-I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong University. Currently, my research interest includes AI for Transport and AI for rational inattention. In the past, I have conducted research in the area of stability theory of neural networks, event-triggered control and distributed optimization. I am very fortunate to be supervised by Prof. Qiankun Song in Computer Science, Chongqing Jiaotong University, and Prof. Xiaofeng Liao in Applied Mathemtics, Southwest University. I am also very fortunate to visit Prof. Tingwen Huang in Science Progam, Texas A&M University at Qatar and Prof. Ronghui Liu in Institute of Transport Studies, University of Leeds. 
+I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong University. Currently, my research interest includes AI for Transport and AI for rational inattention. In the past, I have conducted research in the area of stability theory of neural networks, event-triggered control and distributed optimization. I am very fortunate to be supervised by Prof. Qiankun Song in Computer Science, Chongqing Jiaotong University, for pursuing master's degree, and Prof. Xiaofeng Liao in Applied Mathemtics, Southwest University, for pursuing doctor's degree. I am also very fortunate to visit Prof. Tingwen Huang in Science Progam, Texas A&M University at Qatar and Prof. Ronghui Liu in Institute of Transport Studies, University of Leeds. 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, is (podium) presented in **ISTTT25** and published in **Transportation Research Part B**!
 
 # 📖 Educations
-- *2006.09 - 2010.06*, Mathematics and Applied Mathematics, School of Science, Chongqing Jiaotong University, Bachelor of Science. 
-- *2010.09 - 2013.06*, Computer Science, School of Information Science and technology, Chongqing Jiaotong University, Master of Engineering, Supervised by Prof. Qiankun Song.
-- *2013.09 - 2016.06*, Applied Mathematics, School of Electronic Information Engineering, Southwest University, Doctor of Philosophy, Supervised by Prof. Xiaofeng Liao.
+- *2006.09 - 2010.06*, Mathematics and Applied Mathematics, School of Science, Chongqing Jiaotong University, **Bachelor of Science**. 
+- *2010.09 - 2013.06*, Computer Science, School of Information Science and technology, Chongqing Jiaotong University, **Master of Engineering**, Supervised by Prof. Qiankun Song.
+- *2013.09 - 2016.06*, Applied Mathematics, School of Electronic Information Engineering, Southwest University, **Doctor of Philosophy**, Supervised by Prof. Xiaofeng Liao.
 
 # ⚽️ Career
 I have visited the Texas A&M University at Qatar (for three months) and University of Leeds (for one year). Since *2016.07*, I have jointed School of Mathematics and Statistice, Chongqing Jiaotong University, and have worked here up till now.
@@ -85,6 +85,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
