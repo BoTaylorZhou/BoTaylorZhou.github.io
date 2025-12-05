@@ -70,17 +70,15 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 - *2025.06*, **Bo Zhou (Presenter)**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
 
 # 🚀 Connect With me
-Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport.
+Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
 
 ## 💡 Research & Proposals
-I have completed a research projected granted by National Nature Science Foundation of China and a research projected granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
+I have completed a research projected granted by National Nature Science Foundation of China, and a research projected granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
 ## 🎤 Talks & Workshops
-I offer tailored presentations, workshops, and guest lectures for academic audiences on AI for transport.
+I offer tailored presentations, workshops, and guest lectures for academic audiences on AI for transport and AI for rational inattention.
 
 ## 📬 Get in Touch
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
-
-
