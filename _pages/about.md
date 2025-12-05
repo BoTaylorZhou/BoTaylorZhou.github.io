@@ -19,7 +19,7 @@ redirect_from:
 
 # 🐇 About me
 
-I'm a professor of School of Mathematics and Statistics, [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/). Currently, my research interest includes AI for Transport and AI for rational inattention. In the past, I have conducted research in the area of stability theory of neural networks, event-triggered control and distributed optimization. I am very fortunate to be supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song) for pursuing master's degree of Computer Science in [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en) for pursuing doctor's degree of applied mathematics in [Southwest University](https://www.swu.edu.cn/). I am also very fortunate to visit Prof. [Tingwen Huang](https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en) in Science Progam, Texas A&M University at Qatar and Prof. [Ronghui Liu](https://environment.leeds.ac.uk/transport/staff/951/professor-ronghui-liu) in Institute of Transport Studies, University of Leeds. 
+I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/). Currently, my research interest includes AI for Transport and AI for rational inattention. In the past, I have conducted research in the area of stability theory of neural networks, event-triggered control and distributed optimization. I am very fortunate to be supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song) for pursuing master's degree of Computer Science in [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en) for pursuing doctor's degree of applied mathematics in [Southwest University](https://www.swu.edu.cn/). I am also very fortunate to visit Prof. [Tingwen Huang](https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en) in Science Progam, Texas A&M University at Qatar and Prof. [Ronghui Liu](https://environment.leeds.ac.uk/transport/staff/951/professor-ronghui-liu) in Institute of Transport Studies, University of Leeds. 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, has been (podium) presented in **ISTTT25** and published in **Transportation Research Part B**!
@@ -76,7 +76,7 @@ I have visited the Texas A&M University at Qatar (for three months) and Universi
 Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
 
 ## 💡 Research & Proposals
-I have completed a research projected granted by National Nature Science Foundation of China, and a research projected granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
+I have completed a research project granted by National Nature Science Foundation of China, and a research project granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
 ## 🎤 Talks & Workshops
 I offer tailored presentations, workshops, and guest lectures for academic audiences on AI for transport and AI for rational inattention.
@@ -85,6 +85,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
