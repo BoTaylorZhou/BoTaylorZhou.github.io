@@ -21,10 +21,11 @@ main:
   - title: "Featured Publications"
     url: "/#-featured-publications"
 
-  - title: "Conference Papers"
-    url: "/#-conference-papers"
+  - title: "Conference Talks"
+    url: "/#-conference-talks"
 
-  - title: "Connect With Us"
-    url: "/#-connect-with-us"
+  - title: "Connect With me"
+    url: "/#-connect-with-me"
+
 
 
