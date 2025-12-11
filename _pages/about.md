@@ -49,7 +49,8 @@ I have visited Texas A&M University at Qatar for three months when working towar
 # 📝 Publications 
 ## 🚩 Fearthered works
 
-- [Boundedness and complete stability of complex-valued neural networks with time delay](https://ieeexplore.ieee.org/document/6502726). **Bo Zhou**, Qiankun Song, IEEE Transactions on Neural Networks and Learning Systems, *2013*.
+- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu, Transportation Research Part B, *2024*. 
+  - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
 - [Planning PEV fast-charging stations using data-driven distributionally robust optimization approach based on phi-divergence](https://ieeexplore.ieee.org/document/8984288). **Bo Zhou**, Guo Chen, Tingwen Huang, Qiankun Song, Yuefei Yuan, IEEE Transactions on Transportation Electrification, *2020*.
 
@@ -57,11 +58,12 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [A reinforcement learning scheme for the equilibrium of the in-vehicle route choice problem based on congestion game](https://www.sciencedirect.com/science/article/pii/S0096300319308872). **Bo Zhou**, Qiankun Song, Zhenjjiang Zhao, Tangzhi Liu, Applied Mathematics and Computation, *2020*.
   - "**Zhou et al. (2020)** first define the adaptive routing involving multiple vehicles as a congestion game. A deep reinforcement learning model is developed to solve the congestion game" by [Yang and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524001218).
-
-- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu, Transportation Research Part B, *2024*. 
-  - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
+ 
+- [Boundedness and complete stability of complex-valued neural networks with time delay](https://ieeexplore.ieee.org/document/6502726). **Bo Zhou**, Qiankun Song, IEEE Transactions on Neural Networks and Learning Systems, *2013*.
  
 ## ⭐ Other Works
+
+- [A proximal forward-backward splitting based algorithmic framework for Wasserstein logistic regression using heavy ball strategy](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2293484). **Bo Zhou**, Yuefei Yuan, Qiankun Song, International Journal of Systems Science, *2024*.
 
 - 
 
@@ -92,6 +94,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
