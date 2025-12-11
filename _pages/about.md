@@ -65,7 +65,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [A proximal forward-backward splitting based algorithmic framework for Wasserstein logistic regression using heavy ball strategy](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2293484). **Bo Zhou**, Yuefei Yuan, Qiankun Song, International Journal of Systems Science, *2024*.
 
-- 
+- [Event-based semiglobal consensus of general linear multi-agent systems subject to input saturation](https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1378). **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Huaqing Li, Guo Chen, Asian Journal of Control, *2017*.
 
 # 💬 Conference Papers
 - *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
@@ -94,6 +94,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
