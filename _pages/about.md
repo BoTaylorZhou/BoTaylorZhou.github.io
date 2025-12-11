@@ -67,6 +67,17 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [Event-based semiglobal consensus of general linear multi-agent systems subject to input saturation](https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1378). **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Huaqing Li, Guo Chen, Asian Journal of Control, *2017*.
 
+- [Distributed multi-agent optimization with inequality constraints and random projections](). **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Huiwei Wang, Guo Chen, Neurocomputing, *2016*.
+- [Event-based exponential synchronization of complex networks](https://link.springer.com/article/10.1007/s11571-016-9391-3). **Bo Zhou**, Xiaofeng Liao, Chuandong Li, Tingwen Huang, Cognitive Neurodynamics, *2016*.
+- [Constrained consensus of asynchronous discrete-time multi-agent systems with time-varying topology](https://www.sciencedirect.com/science/article/pii/S0020025515003837). **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Huiwei Wang, Guo Chen, Information Sciences, *2015*.
+- [Pinning exponential synchronization of complex networks via event-triggered communication with combinational measurements](). **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Guo Chen, Neurocompting, *2015*.
+- **Bo Zhou**, Xiaofeng Liao, Tingwen Huang, Guo Chen. Leader-following exponential consensus of general linear multi-agent systems via event-triggered control with combinational measurements. Applied Mathematics Letters 40, 35-39, *2015*.
+- **Bo Zhou**, Xiaofeng Liao. Leader-following second-order consensus in multi-agent systems with sampled data via pinning control. Nonlinear Dynamics 78, 555-569, *2014*.
+- **Bo Zhou**, Qiankun Song. Boundedness and complete stability of complex-valued neural networks with time delay. IEEE Transactions on Neural Networks and Learning Systems 24, 1227-1238, *2013*.
+- **Bo Zhou**, Qiankun Song. Stability and Hopf bifurcation analysis of a tri-neuron BAM neural network with distributed delay. Neurocomputing 82, 69-83, *2012*.
+- **Bo Zhou**, Qiankun Song, Huiwei Wang. Global exponential stability of neural networks with discrete and distributed delays and general activation functions on time scales. Neurocomputing 74, 3142-3150, *2011*.
+
+
 # 💬 Conference Papers
 - *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 - *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
@@ -94,6 +105,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
