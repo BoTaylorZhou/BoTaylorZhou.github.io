@@ -83,6 +83,20 @@ I have visited Texas A&M University at Qatar for three months when working towar
   
 - [Global exponential stability of neural networks with discrete and distributed delays and general activation functions on time scales](https://www.sciencedirect.com/science/article/pii/S0925231211002712). **Bo Zhou**, Qiankun Song, Huiwei Wang, Neurocomputing, *2011*.
 
+- [A multi-period emergency medical service location problem based on Wasserstein-metric approach using generalised benders decomposition method](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2168144). Yuefei Yuan, Qiankun Song, **Bo Zhou**, International Journal of Systems Science, *2023*.
+
+- [Emergency medical service location problem based on physical bounds using chance-constrained programming approach](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2141593). Yuefei Yuan, Qiankun Song, **Bo Zhou**,  International Journal of Systems Science, *2023*.
+  
+- [A Wasserstein distributionally robust chance constrained programming approach for emergency medical system planning problem](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2040641). Yuefei Yuan, Qiankun Song, **Bo Zhou**, International Journal of Systems Science, *2022*.
+
+- [Passivity of fractional-order delayed complex-valued neural networks with uncertainties (in Chinese)](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). Yu Chen, **Bo Zhou**, Qiankun Song, Applied Mathematics and Mechanics, *2021*.
+
+- [Data-driven planning of electric vehicle charging infrastructure: a case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li, Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu, IEEE Transactions on Smart Grid, *2021*.
+
+- [Convolutional residual network to short-term load forecasting](https://link.springer.com/article/10.1007/s10489-020-01932-9). Ziyun Sheng, Huiwei Wang, Guo Chen, **Bo Zhou**, Jian Sun, Applied Intelligence, *2021*.
+
+- [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang, Guo Chen, **Bo Zhou**, Aqeel ur Rehman, Electric Power Systems Research, *2021*.
+
 # 💬 Conference Papers
 - *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 - *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
@@ -110,6 +124,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
