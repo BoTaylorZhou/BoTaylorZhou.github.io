@@ -91,7 +91,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [Passivity of fractional-order delayed complex-valued neural networks with uncertainties (in Chinese)](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). Yu Chen, **Bo Zhou**, Qiankun Song, Applied Mathematics and Mechanics, *2021*.
 
-- [Data-driven planning of electric vehicle charging infrastructure: a case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li, Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu, IEEE Transactions on Smart Grid, *2021*.
+- [Data-driven planning of electric vehicle charging infrastructure: A case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li, Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu, IEEE Transactions on Smart Grid, *2021*.
 
 - [Convolutional residual network to short-term load forecasting](https://link.springer.com/article/10.1007/s10489-020-01932-9). Ziyun Sheng, Huiwei Wang, Guo Chen, **Bo Zhou**, Jian Sun, Applied Intelligence, *2021*.
 
@@ -124,6 +124,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
