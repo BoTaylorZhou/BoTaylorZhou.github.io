@@ -89,7 +89,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
   
 - [A Wasserstein distributionally robust chance constrained programming approach for emergency medical system planning problem](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2040641). Yuefei Yuan, Qiankun Song, **Bo Zhou**, International Journal of Systems Science, *2022*.
 
-- [Passivity of fractional-order delayed complex-valued neural networks with uncertainties (in Chinese)](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). Yu Chen, **Bo Zhou**, Qiankun Song, Applied Mathematics and Mechanics, *2021*.
+- [具有不确定性的分数阶时滞复值神经网络无源性](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). 陈宇, **周博**, 宋乾坤, 应用数学和力学, *2021*.
 
 - [Data-driven planning of electric vehicle charging infrastructure: A case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li, Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu, IEEE Transactions on Smart Grid, *2021*.
 
@@ -124,6 +124,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
