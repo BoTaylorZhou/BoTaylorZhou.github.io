@@ -46,7 +46,8 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - **Zadeh Best Conference Paper Award Finalist** (entitled: Planning PEV fast-charging stations: a data driven distributionally robust optimization approach), awarded by IEEE ICCSS 2019, *2019.09*.
 - **Outstanding Natural Science Papers** (entitled: Boundedness and complete stability of complex-valued neural networks with time delay), awarded by Chongqing Science and Technology Association, *2016.12*.
 
-# 📝 Featured Publications 
+# 📝 Publications 
+## 🚩 Fearthered works
 
 - [Boundedness and complete stability of complex-valued neural networks with time delay](https://ieeexplore.ieee.org/document/6502726). **Bo Zhou**, Qiankun Song, IEEE Transactions on Neural Networks and Learning Systems, *2013*.
 
@@ -59,6 +60,10 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu, Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
+ 
+## ⭐ Other Works
+
+- 
 
 # 💬 Conference Papers
 - *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
@@ -87,6 +92,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
