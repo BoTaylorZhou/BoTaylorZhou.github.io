@@ -100,29 +100,29 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Aqeel ur Rehman, Electric Power Systems Research, *2021*.
 
 # 💬 Conference Papers
-- *2025.06*, **Bo Zhou (Presenter)**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
+- *2025.06*, **Bo Zhou**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
   
-- *2024.07*, Bo Zhou, **Ronghui Liu (Presenter)**. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, USA.
+- *2024.07*, **Bo Zhou**, Ronghui Liu. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, USA.
   
-- *2024.06*, Bo Zhou, **Ronghui Liu (Presenter)**. [Rationally inattentive route choice by link-based segments](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_0023.pdf). 12th Symposium of the European Association for Research in Transportation (hEART2024), Espoo, Finland.
+- *2024.06*, **Bo Zhou**, Ronghui Liu (Presenter). [Rationally inattentive route choice by link-based segments](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_0023.pdf). 12th Symposium of the European Association for Research in Transportation (hEART2024), Espoo, Finland.
   
-- *2024.06*, **Yusi Tang (Presenter)**, Bo Zhou. [Multi-period day-ahead storage scheduling with uncertain inflow](https://ieeexplore.ieee.org/document/10696267). 6th International Conference on Electronic Engineering and Informatics (EEI), Chongqing, China.
+- *2024.06*, Yusi Tang, **Bo Zhou**. [Multi-period day-ahead storage scheduling with uncertain inflow](https://ieeexplore.ieee.org/document/10696267). 6th International Conference on Electronic Engineering and Informatics (EEI), Chongqing, China.
   
-- *2024.05*, **Bo Zhou (Presenter)**. Rationally inattentive route choice with non-uniform marginal information costs. China Systems Science Congress (CSSC), Wuhu, China.
+- *2024.05*, **Bo Zhou**. Rationally inattentive route choice with non-uniform marginal information costs. China Systems Science Congress (CSSC), Wuhu, China.
   
-- *2023.01*, **Meilun Song (Presenter)**, Bo Zhou. [A Benders dual decomposition approach for the planning problem of fast-charging stations with uncertain charging demands](https://ieeexplore.ieee.org/document/10175217). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
+- *2023.01*, Meilun Song, **Bo Zhou**. [A Benders dual decomposition approach for the planning problem of fast-charging stations with uncertain charging demands](https://ieeexplore.ieee.org/document/10175217). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
   
-- *2023.01*, **Silu He (Presenter)**, Bo Zhou. [A Benders dual decomposition approach for multi-area economic dispatch with valve point effect](https://ieeexplore.ieee.org/document/10175311). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
+- *2023.01*, Silu He, **Bo Zhou**. [A Benders dual decomposition approach for multi-area economic dispatch with valve point effect](https://ieeexplore.ieee.org/document/10175311). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
   
-- *2021.10*, **Wei Chen (Presenter)**, Bo Zhou, Huiwei Wang. [On controllability of transportation networks with fractional-order dynamics](https://ieeexplore.ieee.org/document/9607949). 2021 International Conference on Neuromorphic Computing (ICNC), Wuhan, China.
+- *2021.10*, Wei Chen, **Bo Zhou**, Huiwei Wang. [On controllability of transportation networks with fractional-order dynamics](https://ieeexplore.ieee.org/document/9607949). 2021 International Conference on Neuromorphic Computing (ICNC), Wuhan, China.
   
-- *2021.05*, **Xiwen Bao (Presenter)**, Bo Zhou, Huiwei Wang. [Distributed event-triggered projection subgradient algorithm over unbalanced digraphs based on row-stochastic matrices](https://ieeexplore.ieee.org/document/9440630). 11th International Conference on Information Science and Technology (ICIST), Chengdu, China.
+- *2021.05*, Xiwen Bao, **Bo Zhou**, Huiwei Wang. [Distributed event-triggered projection subgradient algorithm over unbalanced digraphs based on row-stochastic matrices](https://ieeexplore.ieee.org/document/9440630). 11th International Conference on Information Science and Technology (ICIST), Chengdu, China.
   
-- *2019.12*, Huiwei Wang, **Yong Zhao (Presenter)**, Qingya Wang, Bo Zhou. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
+- *2019.12*, Huiwei Wang, **Yong Zhao (Presenter)**, Qingya Wang, **Bo Zhou**. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
   
-- *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
+- *2019.09*, **Bo Zhou**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
   
-- *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
+- *2011.05*, Yupei Lv, **Bo Zhou**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 
 # 🚀 Contact me
 Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
@@ -137,6 +137,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
