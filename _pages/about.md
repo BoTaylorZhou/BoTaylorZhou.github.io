@@ -118,7 +118,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
   
 - *2021.05*, Xiwen Bao, **Bo Zhou**, Huiwei Wang. [Distributed event-triggered projection subgradient algorithm over unbalanced digraphs based on row-stochastic matrices](https://ieeexplore.ieee.org/document/9440630). 11th International Conference on Information Science and Technology (ICIST), Chengdu, China.
   
-- *2019.12*, Huiwei Wang, **Yong Zhao (Presenter)**, Qingya Wang, **Bo Zhou**. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
+- *2019.12*, Huiwei Wang, Yong Zhao, Qingya Wang, **Bo Zhou**. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
   
 - *2019.09*, **Bo Zhou**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
   
@@ -137,45 +137,3 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
