@@ -100,9 +100,9 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Aqeel ur Rehman, Electric Power Systems Research, *2021*.
 
 # 💬 Conference Papers
-- *2025.06*, **Bo Zhou**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
+- *2025.06*, **Bo Zhou**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis (TRISTAN), Okinawa, Japan.
   
-- *2024.07*, **Bo Zhou**, Ronghui Liu. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, USA.
+- *2024.07*, **Bo Zhou**, Ronghui Liu. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT), Ann Arbor, Michigan, USA.
   
 - *2024.06*, **Bo Zhou**, Ronghui Liu (Presenter). [Rationally inattentive route choice by link-based segments](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_0023.pdf). 12th Symposium of the European Association for Research in Transportation (hEART2024), Espoo, Finland.
   
@@ -137,5 +137,6 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
