@@ -23,6 +23,7 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, has been (podium) presented in **ISTTT25** and published in **Transportation Research Part B**!
+- *2026.01*: &nbsp;🎉🎉 Excited to share that a work by my graduate student Yufan Wang, Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety, has been accpeted by in **International Journal of Systems Science**!
 
 # 📖 Educations
 - *2006.09 - 2010.06*, mathematics and applied mathematics, [School of Science](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Bachelor of Science**. 
@@ -137,6 +138,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
