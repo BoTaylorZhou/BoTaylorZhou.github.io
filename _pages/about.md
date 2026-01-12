@@ -110,6 +110,8 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - *2024.06*, Yusi Tang, **Bo Zhou**. [Multi-period day-ahead storage scheduling with uncertain inflow](https://ieeexplore.ieee.org/document/10696267). 6th International Conference on Electronic Engineering and Informatics (EEI), Chongqing, China.
   
 - *2024.05*, **Bo Zhou**. Rationally inattentive route choice with non-uniform marginal information costs. China Systems Science Congress (CSSC), Wuhu, China.
+
+- *2023.06*, **Bo Zhou**, Ronghui Liu (Presenter). [Optimal planning of electric vehicle fast-charging stations considering uncertain charging demands via Dantzig-Wolfe decomposition](https://joint-research-centre.ec.europa.eu/document/download/88bdfe64-ae89-4973-b320-dec75f4ea518_en?filename=Program_V8.pdf). 9th International Symposium on Transportation Data & Modelling (ISTDM2023), Ispra, Italy.
   
 - *2023.01*, Meilun Song, **Bo Zhou**. [A Benders dual decomposition approach for the planning problem of fast-charging stations with uncertain charging demands](https://ieeexplore.ieee.org/document/10175217). 1st International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
   
@@ -138,6 +140,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
