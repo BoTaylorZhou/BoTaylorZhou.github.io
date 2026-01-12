@@ -33,12 +33,12 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 # ⚽️ Career
 I have visited Texas A&M University at Qatar for three months when working toward PhD. Since *2016.07*, I have jointed [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and worked here up till now. When working at CQJTU, I have visited [University of Leeds](https://www.leeds.ac.uk/) for one year.
 
+## 💻 Working Experience
+- *2016.07 -*, [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/).
+
 ## 🤝 Visiting Experience
 - *2014.11 - 2015.01*, Science Program, Texas A&M University at Qatar, supervised by Prof. [Tingwen Huang](https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en).
 - *2022.11 - 2023.11*, [Institute for Transport Studies](https://environment.leeds.ac.uk/transport), [University of Leeds](https://www.leeds.ac.uk/), supervised by Prof. [Ronghui Liu](https://environment.leeds.ac.uk/transport/staff/951/professor-ronghui-liu).
-
-## 💻 Working Experience
-- *2016.07 -*, [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/).
 
 # 🎖 Honors and Awards
 - **First prize of Chongqing Natural Science Award** (*2nd Place Winner*, entitled: Researches on stability of recurrent neural networks with time delays), awarded by Chongqing Municipal Government, *2019.09*.
@@ -140,6 +140,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
