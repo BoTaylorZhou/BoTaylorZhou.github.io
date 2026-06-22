@@ -48,7 +48,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - **Outstanding Natural Science Papers** (entitled: Boundedness and complete stability of complex-valued neural networks with time delay), awarded by Chongqing Science and Technology Association, *2016.12*.
 
 # 📝 Publications 
-## 🚩 Fearthered works
+## 🚩 Fearthered publications
 
 - [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu (Corr. Author). Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
@@ -64,9 +64,9 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 ## ⭐ Monographs
 
-- [Control and estimation of complex systems under transmission constraints]. Bing Li, **Bo Zhou**, Qiankun Song, Zidong Wang. Science Press, Beijing, 2026, (in Chinese).
-- 
-- [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems]. [2]	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
+- [Control and estimation of complex systems under transmission constraints](). Bing Li, **Bo Zhou**, Qiankun Song, Zidong Wang. Science Press, Beijing, 2026, (in Chinese).
+  
+- [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems](). [2]	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
  
 ## ⭐ Other Works
 
