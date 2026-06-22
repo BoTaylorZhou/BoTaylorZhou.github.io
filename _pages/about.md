@@ -50,57 +50,66 @@ I have visited Texas A&M University at Qatar for three months when working towar
 # 📝 Publications 
 ## 🚩 Fearthered works
 
-- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu (Corr. Author), Transportation Research Part B, *2024*. 
+- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu (Corr. Author). Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
-- [Planning PEV fast-charging stations using data-driven distributionally robust optimization approach based on phi-divergence](https://ieeexplore.ieee.org/document/8984288). **Bo Zhou**, Guo Chen (Corr. Author), Tingwen Huang, Qiankun Song, Yuefei Yuan, IEEE Transactions on Transportation Electrification, *2020*.
+- [Planning PEV fast-charging stations using data-driven distributionally robust optimization approach based on phi-divergence](https://ieeexplore.ieee.org/document/8984288). **Bo Zhou**, Guo Chen (Corr. Author), Tingwen Huang, Qiankun Song, Yuefei Yuan. IEEE Transactions on Transportation Electrification, *2020*.
 
-- [Robust chance-constrained programming approach for the planning of fast-charging stations in electrified transportation networks](https://www.sciencedirect.com/science/article/pii/S0306261919321683). **Bo Zhou**, Guo Chen (Corr. Author), Qiankun Song, Zhao Yang Dong, Applied Energy, *2020*.
+- [Robust chance-constrained programming approach for the planning of fast-charging stations in electrified transportation networks](https://www.sciencedirect.com/science/article/pii/S0306261919321683). **Bo Zhou**, Guo Chen (Corr. Author), Qiankun Song, Zhao Yang Dong. Applied Energy, *2020*.
 
-- [A reinforcement learning scheme for the equilibrium of the in-vehicle route choice problem based on congestion game](https://www.sciencedirect.com/science/article/pii/S0096300319308872). **Bo Zhou (Corr. Author)**, Qiankun Song, Zhenjjiang Zhao, Tangzhi Liu, Applied Mathematics and Computation, *2020*.
+- [A reinforcement learning scheme for the equilibrium of the in-vehicle route choice problem based on congestion game](https://www.sciencedirect.com/science/article/pii/S0096300319308872). **Bo Zhou (Corr. Author)**, Qiankun Song, Zhenjjiang Zhao, Tangzhi Liu. Applied Mathematics and Computation, *2020*.
   - "**Zhou et al. (2020)** first define the adaptive routing involving multiple vehicles as a congestion game. A deep reinforcement learning model is developed to solve the congestion game" by [Yang and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524001218).
  
-- [Boundedness and complete stability of complex-valued neural networks with time delay](https://ieeexplore.ieee.org/document/6502726). **Bo Zhou**, Qiankun Song (Corr. Author), IEEE Transactions on Neural Networks and Learning Systems, *2013*.
+- [Boundedness and complete stability of complex-valued neural networks with time delay](https://ieeexplore.ieee.org/document/6502726). **Bo Zhou**, Qiankun Song (Corr. Author). IEEE Transactions on Neural Networks and Learning Systems, *2013*.
+
+## ⭐ Monographs
+
+- [Control and estimation of complex systems under transmission constraints]. Bing Li, **Bo Zhou**, Qiankun Song, Zidong Wang. Science Press, Beijing, 2026, (in Chinese).
+- 
+- [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems]. [2]	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
  
 ## ⭐ Other Works
 
-- [Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety](https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2610399). Yufan Wang, Yuefei Yuan, **Bo Zhou (Corr. Author)**, Qiankun Song, International Journal of Systems Science, *2026*.
+- [Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety](https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2610399). Yufan Wang, Yuefei Yuan, **Bo Zhou (Corr. Author)**, Qiankun Song. International Journal of Systems Science, *2026*.
 
-- [A proximal forward-backward splitting based algorithmic framework for Wasserstein logistic regression using heavy ball strategy](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2293484). **Bo Zhou (Corr. Author)**, Yuefei Yuan, Qiankun Song, International Journal of Systems Science, *2024*.
+- [A proximal forward-backward splitting based algorithmic framework for Wasserstein logistic regression using heavy ball strategy](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2293484). **Bo Zhou (Corr. Author)**, Yuefei Yuan, Qiankun Song. International Journal of Systems Science, *2024*.
 
-- [Event-based semiglobal consensus of general linear multi-agent systems subject to input saturation](https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1378). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huaqing Li, Guo Chen, Asian Journal of Control, *2017*.
+- [Event-based semiglobal consensus of general linear multi-agent systems subject to input saturation](https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1378). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huaqing Li, Guo Chen. Asian Journal of Control, *2017*.
 
-- [Distributed multi-agent optimization with inequality constraints and random projections](). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huiwei Wang, Guo Chen, Neurocomputing, *2016*.
+- [Distributed multi-agent optimization with inequality constraints and random projections](). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huiwei Wang, Guo Chen. Neurocomputing, *2016*.
   
-- [Event-based exponential synchronization of complex networks](https://link.springer.com/article/10.1007/s11571-016-9391-3). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Chuandong Li, Tingwen Huang, Cognitive Neurodynamics, *2016*.
+- [Event-based exponential synchronization of complex networks](https://link.springer.com/article/10.1007/s11571-016-9391-3). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Chuandong Li, Tingwen Huang. Cognitive Neurodynamics, *2016*.
   
-- [Constrained consensus of asynchronous discrete-time multi-agent systems with time-varying topology](https://www.sciencedirect.com/science/article/pii/S0020025515003837). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huiwei Wang, Guo Chen, Information Sciences, *2015*.
+- [Constrained consensus of asynchronous discrete-time multi-agent systems with time-varying topology](https://www.sciencedirect.com/science/article/pii/S0020025515003837). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Huiwei Wang, Guo Chen. Information Sciences, *2015*.
   
-- [Pinning exponential synchronization of complex networks via event-triggered communication with combinational measurements](https://www.sciencedirect.com/science/article/pii/S0925231215000399). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Guo Chen, Neurocompting, *2015*.
+- [Pinning exponential synchronization of complex networks via event-triggered communication with combinational measurements](https://www.sciencedirect.com/science/article/pii/S0925231215000399). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Guo Chen. Neurocompting, *2015*.
   
-- [Leader-following exponential consensus of general linear multi-agent systems via event-triggered control with combinational measurements](https://www.sciencedirect.com/science/article/pii/S0893965914003115). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Guo Chen, Applied Mathematics Letters, *2015*.
+- [Leader-following exponential consensus of general linear multi-agent systems via event-triggered control with combinational measurements](https://www.sciencedirect.com/science/article/pii/S0893965914003115). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Tingwen Huang, Guo Chen. Applied Mathematics Letters, *2015*.
   
-- [Leader-following second-order consensus in multi-agent systems with sampled data via pinning control](https://link.springer.com/article/10.1007/s11071-014-1460-8). **Bo Zhou**, Xiaofeng Liao (Corr. Author), Nonlinear Dynamics, *2014*.
+- [Leader-following second-order consensus in multi-agent systems with sampled data via pinning control](https://link.springer.com/article/10.1007/s11071-014-1460-8). **Bo Zhou**, Xiaofeng Liao (Corr. Author). Nonlinear Dynamics, *2014*.
   
-- [Stability and Hopf bifurcation analysis of a tri-neuron BAM neural network with distributed delay](https://www.sciencedirect.com/science/article/pii/S0925231211007260). **Bo Zhou**, Qiankun Song (Corr. Author), Neurocomputing, *2012*.
+- [Stability and Hopf bifurcation analysis of a tri-neuron BAM neural network with distributed delay](https://www.sciencedirect.com/science/article/pii/S0925231211007260). **Bo Zhou**, Qiankun Song (Corr. Author). Neurocomputing, *2012*.
   
-- [Global exponential stability of neural networks with discrete and distributed delays and general activation functions on time scales](https://www.sciencedirect.com/science/article/pii/S0925231211002712). **Bo Zhou**, Qiankun Song (Corr. Author), Huiwei Wang, Neurocomputing, *2011*.
+- [Global exponential stability of neural networks with discrete and distributed delays and general activation functions on time scales](https://www.sciencedirect.com/science/article/pii/S0925231211002712). **Bo Zhou**, Qiankun Song (Corr. Author), Huiwei Wang. Neurocomputing, *2011*.
 
-- [A multi-period emergency medical service location problem based on Wasserstein-metric approach using generalised benders decomposition method](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2168144). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**, International Journal of Systems Science, *2023*.
+- [A multi-period emergency medical service location problem based on Wasserstein-metric approach using generalised benders decomposition method](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2168144). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**. International Journal of Systems Science, *2023*.
 
-- [Emergency medical service location problem based on physical bounds using chance-constrained programming approach](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2141593). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**,  International Journal of Systems Science, *2023*.
+- [Emergency medical service location problem based on physical bounds using chance-constrained programming approach](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2141593). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**.  International Journal of Systems Science, *2023*.
   
-- [A Wasserstein distributionally robust chance constrained programming approach for emergency medical system planning problem](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2040641). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**, International Journal of Systems Science, *2022*.
+- [A Wasserstein distributionally robust chance constrained programming approach for emergency medical system planning problem](https://www.tandfonline.com/doi/full/10.1080/00207721.2022.2040641). Yuefei Yuan, Qiankun Song (Corr. Author), **Bo Zhou**. International Journal of Systems Science, *2022*.
 
-- [具有不确定性的分数阶时滞复值神经网络无源性](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). 陈宇, **周博**, 宋乾坤 (Corr. Author), 应用数学和力学, *2021*.
+- [具有不确定性的分数阶时滞复值神经网络无源性](http://applmathmech.cqjtu.edu.cn/cn/article/doi/10.21656/1000-0887.410309). 陈宇, **周博**, 宋乾坤 (Corr. Author). 应用数学和力学, *2021*.
 
-- [Data-driven planning of electric vehicle charging infrastructure: A case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li (Corr. Author), Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu, IEEE Transactions on Smart Grid, *2021*.
+- [Data-driven planning of electric vehicle charging infrastructure: A case study of Sydney, Australia](https://ieeexplore.ieee.org/document/9335962/). Chaojie Li (Corr. Author), Zhao Yang Dong, Guo Chen, **Bo Zhou**, Jingqi Zhang, Xinghuo Yu. IEEE Transactions on Smart Grid, *2021*.
 
-- [Convolutional residual network to short-term load forecasting](https://link.springer.com/article/10.1007/s10489-020-01932-9). Ziyun Sheng, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Jian Sun, Applied Intelligence, *2021*.
+- [Convolutional residual network to short-term load forecasting](https://link.springer.com/article/10.1007/s10489-020-01932-9). Ziyun Sheng, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Jian Sun. Applied Intelligence, *2021*.
 
-- [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Aqeel ur Rehman, Electric Power Systems Research, *2021*.
+- [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Aqeel ur Rehman. Electric Power Systems Research, *2021*.
 
 # 💬 Conference Papers
+
+- *2025.10*, Wanqing Jiang, Yuefei Yuan, **Bo Zhou**. [Planning of fast-charging stations: A multi-stage distributionally robust optimization model](https://ieeexplore.ieee.org/document/11379194). 2025 Third International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
+
 - *2025.06*, **Bo Zhou**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis (TRISTAN), Okinawa, Japan.
   
 - *2024.07*, **Bo Zhou**, Ronghui Liu. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT), Ann Arbor, Michigan, USA.
