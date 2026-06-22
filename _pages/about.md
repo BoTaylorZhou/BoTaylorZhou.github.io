@@ -66,7 +66,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [Control and estimation of complex systems under transmission constraints](). Bing Li, **Bo Zhou**, Qiankun Song, Zidong Wang. Science Press, Beijing, 2026, (in Chinese).
   
-- [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems](). [2]	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
+- [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems]().	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
  
 ## ⭐ Other Works
 
