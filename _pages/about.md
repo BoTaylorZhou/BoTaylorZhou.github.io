@@ -50,7 +50,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 # 📝 Publications 
 ## 🚩 Fearthered publications
 
-- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu (Corr. Author). Transportation Research Part B, *2024*. 
+- [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu (Corr. Author). ISTTT25 and Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
 - [Planning PEV fast-charging stations using data-driven distributionally robust optimization approach based on phi-divergence](https://ieeexplore.ieee.org/document/8984288). **Bo Zhou**, Guo Chen (Corr. Author), Tingwen Huang, Qiankun Song, Yuefei Yuan. IEEE Transactions on Transportation Electrification, *2020*.
