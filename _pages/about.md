@@ -26,9 +26,9 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 - *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, has been (podium) presented in **ISTTT25** and published in **Transportation Research Part B**!
 
 # 📖 Educations
-- *2006.09 - 2010.06*, mathematics and applied mathematics, [School of Science](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Bachelor of Science**. 
-- *2010.09 - 2013.06*, computer science, [School of Information Science and Technology](http://sise.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Master of Engineering**, supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song).
-- *2013.09 - 2016.06*, applied mathematics, [School of Electronic and Information Engineering](https://ceie.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/), **Doctor of Philosophy**, supervised by Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en).
+- *2006.09 - 2010.06*, Mathematics and Applied Mathematics, [School of Science](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Bachelor of Science**. 
+- *2010.09 - 2013.06*, Computer Science, [School of Information Science and Technology](http://sise.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Master of Engineering**, supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song).
+- *2013.09 - 2016.06*, Applied Mathematics, [School of Electronic and Information Engineering](https://ceie.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/), **Doctor of Philosophy**, supervised by Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en).
 
 # ⚽️ Career
 I have visited Texas A&M University at Qatar for three months when working toward PhD. Since *2016.07*, I have jointed [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and worked here up till now. When working at CQJTU, I have visited [University of Leeds](https://www.leeds.ac.uk/) for one year.
