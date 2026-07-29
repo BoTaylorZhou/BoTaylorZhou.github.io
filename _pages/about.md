@@ -27,7 +27,7 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 
 # 🔬 Researches
 
-Our research focuses on rational inattention (RI) and its applications to transportation, control, and AI. RI is proposed by the Nobel Prize Laureate Christopher A. Sims, which provides a theoretical framework for analysing how decision-makers optimally acquire and process information when attention is limited and information is costly. It mainly has two specific models: Gaussian and non-Gaussian models. Our main research directions include, but no limited to:
+Our research focuses on rational inattention (RI) and its applications to transportation, control, and AI. RI is proposed by the Nobel Prize Laureate Christopher A. Sims (October 21, 1942 - March 14, 2026), which provides a theoretical framework for analysing how decision-makers optimally acquire and process information when attention is limited and information is costly. It mainly has two specific models: Gaussian and non-Gaussian models. Our main research directions include, but no limited to:
 
 **1. RI for Transport**
 
