@@ -46,7 +46,7 @@ Many RI models are difficult to solve when the state, action, or information spa
 - *2010.09 - 2013.06*, Computer Science, [School of Information Science and Technology](http://sise.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Master of Engineering**, supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song).
 - *2013.09 - 2016.06*, Applied Mathematics, [School of Electronic and Information Engineering](https://ceie.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/), **Doctor of Philosophy**, supervised by Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en).
 
-# ⚽️ Career
+# ⚽ Career
 I have visited Texas A&M University at Qatar for three months when working toward PhD. Since *2016.07*, I have jointed [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and worked here up till now. When working at CQJTU, I have visited [University of Leeds](https://www.leeds.ac.uk/) for one year.
 
 ## 💻 Working Experience
