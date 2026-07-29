@@ -37,9 +37,9 @@ Travel decisions are often made under incomplete information and limited attenti
 
 Autonomous agents operate subject to constraints on sensing, communication, and computation. In multi-agent systems, acquiring and transmitting information about the environment and other agents may therefore need to be treated as part of the control problem. This research incorporates RI into optimal and distributed control to jointly model information acquisition and control decisions. Applications include formation control, cooperative navigation, collision avoidance, and task allocation for autonomous vehicles, unmanned aerial vehicles, and robotic systems. The main objective is to characterise the relationship between information-processing costs and control performance and to develop algorithms for systems with limited information resources.
 
-**3. AI for RI**
+**3. RI for AI**
 
-Many RI models are difficult to solve when the state, action, or information spaces are large. This research studies the use of AI methods to approximate or compute solutions to such models. Relevant methods include reinforcement learning, neural-network-based approximation, and data-driven optimisation. A related topic is the estimation of attention costs and information structures from observed decisions. This direction aims to develop computational methods for RI models while retaining clear behavioural and mathematical interpretations.
+AI systems often make decisions under constraints on sensing, communication, memory, and computation. RI provides a framework for modelling how an intelligent agent allocates its limited information-processing capacity across different sources of information. This research applies RI theory to learning and decision-making problems in AI, with particular attention to selective information acquisition, attention allocation, state representation, and multi-agent communication. The aim is to develop AI models that explicitly account for information processing constraints and to examine how these constraints affect learning and decision performance.
 
 # 📖 Educations
 - *2006.09 - 2010.06*, Mathematics and Applied Mathematics, [School of Science](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Bachelor of Science**. 
@@ -153,13 +153,13 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - *2011.05*, Yupei Lv, **Bo Zhou**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 
 # 🚀 Contact me
-Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of the theory and applications of RI and AI.
+Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of the theory and applications of RI.
 
 ## 💡 Research & Proposals
 I have completed a research project granted by National Nature Science Foundation of China, and a research project granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
 ## 🎤 Talks & Workshops
-I offer tailored presentations, workshops, and guest lectures for academic audiences on the theory and applications of RI and AI.
+I offer tailored presentations, workshops, and guest lectures for academic audiences on the theory and applications of RI.
 
 ## 📬 Get in Touch
 Feel free to reach out anytime:
