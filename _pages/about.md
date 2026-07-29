@@ -84,7 +84,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
   
 - [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems]().	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
  
-## ⭐ Other Works
+## ⭐ Other Publications
 
 - [Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety](https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2610399). Yufan Wang, Yuefei Yuan, **Bo Zhou (Corr. Author)**, Qiankun Song. International Journal of Systems Science, *2026*.
 
@@ -122,7 +122,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 - [Intermittently differential privacy in smart meters via rechargeable batteries](https://www.sciencedirect.com/science/article/pii/S0378779621003916). Xing Liu, Huiwei Wang (Corr. Author), Guo Chen, **Bo Zhou**, Aqeel ur Rehman. Electric Power Systems Research, *2021*.
 
-# 💬 Conference Papers
+## ⭐ Conference Papers
 
 - *2025.10*, Wanqing Jiang, Yuefei Yuan, **Bo Zhou**. [Planning of fast-charging stations: A multi-stage distributionally robust optimization model](https://ieeexplore.ieee.org/document/11379194). 2025 Third International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE), Shenyang, China.
 
