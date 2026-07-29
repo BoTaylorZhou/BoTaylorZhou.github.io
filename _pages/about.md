@@ -84,7 +84,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
   
 - [Distributed optimization, game and learning algorithms-theory and applications in smart grid systems]().	Huiwei Wang, Huaqing Li, **Bo Zhou**. Springer, Singapore, 2021.
  
-## ⭐ Other Publications
+## ⭐ Other Journal Publications
 
 - [Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety](https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2610399). Yufan Wang, Yuefei Yuan, **Bo Zhou (Corr. Author)**, Qiankun Song. International Journal of Systems Science, *2026*.
 
