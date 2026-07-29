@@ -25,6 +25,22 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 - *2026.01*: &nbsp;🎉🎉 Excited to share that a work by my graduate student Yufan Wang, Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety, has been accpeted by in **International Journal of Systems Science**!
 - *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, has been (podium) presented in **ISTTT25** and published in **Transportation Research Part B**!
 
+# 🔬 Researches
+
+Our research focuses on rational inattention (RI) and its applications to transportation, control, and AI. RI is proposed by the Nobel Prize Laureate Christopher A. Sims, which provides a theoretical framework for analysing how decision-makers optimally acquire and process information when attention is limited and information is costly. It mainly has two specific models: Gaussian and non-Gaussian models. Our main research directions include, but no limited to:
+
+- **RI for Transport**
+
+Travel decisions are often made under incomplete information and limited attention. Travellers may selectively acquire information about travel times, congestion, service reliability, or charging availability before choosing routes, travel modes, departure times, or charging locations. This research applies RI theory to represent such endogenous information acquisition and its effects on travel behaviour. Particular attention is given to integrating RI-based choice models with transport network equilibrium and developing computational methods suitable for large networks. The resulting framework can also be used to examine how information provision, pricing, and other transport policies affect travellers’ attention allocation and choices.
+
+- **RI for Control**
+
+Autonomous agents operate subject to constraints on sensing, communication, and computation. In multi-agent systems, acquiring and transmitting information about the environment and other agents may therefore need to be treated as part of the control problem. This research incorporates RI into optimal and distributed control to jointly model information acquisition and control decisions. Applications include formation control, cooperative navigation, collision avoidance, and task allocation for autonomous vehicles, unmanned aerial vehicles, and robotic systems. The main objective is to characterise the relationship between information-processing costs and control performance and to develop algorithms for systems with limited information resources.
+
+- **AI for RI**
+
+Many RI models are difficult to solve when the state, action, or information spaces are large. This research studies the use of AI methods to approximate or compute solutions to such models. Relevant methods include reinforcement learning, neural-network-based approximation, and data-driven optimisation. A related topic is the estimation of attention costs and information structures from observed decisions. This direction aims to develop computational methods for RI models while retaining clear behavioural and mathematical interpretations.
+
 # 📖 Educations
 - *2006.09 - 2010.06*, Mathematics and Applied Mathematics, [School of Science](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Bachelor of Science**. 
 - *2010.09 - 2013.06*, Computer Science, [School of Information Science and Technology](http://sise.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), **Master of Engineering**, supervised by Prof. [Qiankun Song](https://www.sciencedirect.com/author/7202973716/qiankun-song).
