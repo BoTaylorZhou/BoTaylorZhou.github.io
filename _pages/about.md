@@ -137,13 +137,13 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - *2011.05*, Yupei Lv, **Bo Zhou**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 
 # 🚀 Contact me
-Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
+Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of the theory and applications of RI and AI.
 
 ## 💡 Research & Proposals
 I have completed a research project granted by National Nature Science Foundation of China, and a research project granted by Nature Science Foundation of Chongqing. I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
 ## 🎤 Talks & Workshops
-I offer tailored presentations, workshops, and guest lectures for academic audiences on AI for transport and AI for rational inattention.
+I offer tailored presentations, workshops, and guest lectures for academic audiences on the theory and applications of RI and AI.
 
 ## 📬 Get in Touch
 Feel free to reach out anytime:
