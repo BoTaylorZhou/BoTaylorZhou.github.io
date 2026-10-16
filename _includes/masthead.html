@@ -2,9 +2,12 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        <a class="site-brand" href="/#top" aria-label="Bo Zhou homepage">
+          <span class="site-brand__mark">BZ</span>
+          <span class="site-brand__text"><strong>Bo Zhou</strong><small>Rational Inattention</small></span>
+        </a>
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
