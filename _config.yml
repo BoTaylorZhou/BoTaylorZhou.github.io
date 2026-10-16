@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bo Zhou"
-description              : "Rational inattention (RI) <br> RI for control <br> RI for transport <br> RI for AI"
-repository               : "BoTaylorZhou.github.io"
+title                    : "Bo Zhou · Rational Inattention"
+description              : "Bo Zhou is a professor at Chongqing Jiaotong University studying rational inattention in transportation, control, and AI."
+repository               : "BoTaylorZhou/BoTaylorZhou.github.io"
+url                      : "https://botaylorzhou.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -125,7 +127,7 @@ defaults:
       type: pages
     values:
       layout: default
-      author_profile: true
+      author_profile: false
 
 
 # Sass/SCSS
