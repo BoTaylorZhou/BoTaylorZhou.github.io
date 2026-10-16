@@ -17,17 +17,17 @@ author_profile: false
     <div>
       <div class="section-heading"><h2>Education</h2></div>
       <ol class="timeline">
-        <li><time>2013 — 2016</time><h3>PhD · Applied Mathematics</h3><p>Southwest University · supervised by Prof. Xiaofeng Liao</p></li>
-        <li><time>2010 — 2013</time><h3>MEng · Computer Science</h3><p>Chongqing Jiaotong University · supervised by Prof. Qiankun Song</p></li>
-        <li><time>2006 — 2010</time><h3>BSc · Mathematics &amp; Applied Mathematics</h3><p>Chongqing Jiaotong University</p></li>
+        <li><time>2013.09 — 2016.06</time><h3>PhD · Applied Mathematics</h3><p>Southwest University · supervised by Prof. Xiaofeng Liao</p></li>
+        <li><time>2010.09 — 2013.06</time><h3>MEng · Computer Science</h3><p>Chongqing Jiaotong University · supervised by Prof. Qiankun Song</p></li>
+        <li><time>2006.09 — 2010.06</time><h3>BSc · Mathematics &amp; Applied Mathematics</h3><p>Chongqing Jiaotong University</p></li>
       </ol>
     </div>
     <div>
       <div class="section-heading"><h2>Appointments</h2></div>
       <ol class="timeline">
-        <li><time>2016 — Present</time><h3>Professor / Faculty Member</h3><p>School of Mathematics and Statistics, Chongqing Jiaotong University</p></li>
-        <li><time>2022 — 2023</time><h3>Visiting Scholar</h3><p>Institute for Transport Studies, University of Leeds · hosted by Prof. Ronghui Liu</p></li>
-        <li><time>2014 — 2015</time><h3>Visiting Scholar</h3><p>Science Program, Texas A&amp;M University at Qatar · supervised by Prof. Tingwen Huang</p></li>
+        <li><time>2016.07 — Present</time><h3>Professor / Faculty Member</h3><p>School of Mathematics and Statistics, Chongqing Jiaotong University</p></li>
+        <li><time>2022.11 — 2023.11</time><h3>Visiting Scholar</h3><p>Institute for Transport Studies, University of Leeds · hosted by Prof. Ronghui Liu</p></li>
+        <li><time>2014.11 — 2015.01</time><h3>Visiting Scholar</h3><p>Science Program, Texas A&amp;M University at Qatar · supervised by Prof. Tingwen Huang</p></li>
       </ol>
     </div>
   </div>
