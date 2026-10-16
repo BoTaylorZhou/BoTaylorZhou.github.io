@@ -1,25 +1,16 @@
-# main links links
+# Primary pages
 main:
-  - title: "About Me"
-    url: "/#-about-me"
+  - title: "Home"
+    url: "/"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Experience"
+    url: "/experience/"
 
-  - title: "Researches"
-    url: "/#-researches"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Career"
-    url: "/#-career"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Research"
+    url: "/research/"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
 
-  - title: "Contact me"
-    url: "/#-contact-me"
+  - title: "Contact"
+    url: "/contact/"
