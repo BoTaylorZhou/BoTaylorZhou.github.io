@@ -192,7 +192,7 @@ a:hover { color: var(--accent); }
 .contact-grid p { margin-top: 0; color: #47534f; }
 .contact-link { display: flex; align-items: end; gap: 1rem; margin-top: 2.5rem; padding: 1rem 0; border-bottom: 1px solid rgba(20,34,30,.4); color: var(--ink); font-family: var(--display); font-size: clamp(1.15rem, 2.2vw, 1.7rem); text-decoration: none; }
 .contact-link span { margin-right: auto; color: var(--accent-dark); font-family: var(--sans); font-size: .82rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
-.contact-link__email { font-family: var(--sans); font-size: 1rem; font-weight: 800; }
+.contact-link__email { font-family: var(--sans); font-size: 1.2rem; font-weight: 800; }
 
 .site-footer { padding: 4rem clamp(1.25rem, 5vw, 4.5rem) 2rem; color: var(--muted); background: #f7f6f3; border-top: 1px solid var(--rule); }
 .site-footer__inner { max-width: 1440px; margin: auto; }
