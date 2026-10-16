@@ -65,7 +65,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 
 # 📝 Publications 
 
-A selection of selected papers, working papers and monographs. For the full list, please see [my Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=WdbzrFAAAAAJ).
+A selection of published papers, working papers and monographs. For the full list, please see [my Google Scholar page](https://scholar.google.com/citations?hl=en&tzom=-480&user=WdbzrFAAAAAJ).
 
 ## 🚩 Selected papers
 
