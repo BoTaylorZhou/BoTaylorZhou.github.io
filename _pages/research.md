@@ -21,3 +21,14 @@ author_profile: false
     </div>
   </div>
 </section>
+
+<section class="section section--band section--page">
+  <div class="section__label"><span>02</span> Grants</div>
+  <div class="section__content">
+    <div class="section-heading"><h2>Funded projects</h2><p>Selected competitively funded research projects.</p></div>
+    <div class="grants-list">
+      <article><time>2019.01 — 2021.12</time><div><span class="grant-number">No. 61803056</span><h3>Design and analysis of distributed optimization algorithm based on event-triggered mechanism</h3><p>Granted by <em>National Natural Science Foundation of China</em>.</p></div></article>
+      <article><time>2018.08 — 2021.07</time><div><span class="grant-number">No. cstc2018jcyjAX0365</span><h3>Design and analysis of distributed optimization algorithm for large-scale systems</h3><p>Granted by <em>Natural Science Foundation of Chongqing</em>.</p></div></article>
+    </div>
+  </div>
+</section>
