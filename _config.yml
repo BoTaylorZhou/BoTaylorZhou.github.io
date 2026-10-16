@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bo Zhou · Rational Inattention"
+title                    : "Bo Zhou's homepage · Rational inattention"
 description              : "Bo Zhou is a professor at Chongqing Jiaotong University studying rational inattention in transportation, control, and AI."
 repository               : "BoTaylorZhou/BoTaylorZhou.github.io"
 url                      : "https://botaylorzhou.github.io"
