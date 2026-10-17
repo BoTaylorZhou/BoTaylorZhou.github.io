@@ -52,13 +52,30 @@ layout: compress
           </div>
         </section>
         <div class="site-footer__copyright">
-          © <span id="current-year">2026</span> · Bo Zhou · Chongqing Jiaotong University
+          © <span id="current-datetime"></span> · Bo Zhou · Chongqing Jiaotong University
           · <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">Total Visits: <span id="busuanzi_value_site_pv"></span></span>
         </div>
       </div>
     </footer>
+    <script>
+      function updateCurrentDateTime() {
+        const now = new Date();
+        const twoDigits = (value) => String(value).padStart(2, "0");
+        const date = [
+          now.getFullYear(),
+          twoDigits(now.getMonth() + 1),
+          twoDigits(now.getDate())
+        ].join("-");
+        const time = [
+          twoDigits(now.getHours()),
+          twoDigits(now.getMinutes()),
+          twoDigits(now.getSeconds())
+        ].join(":");
+
+        document.getElementById("current-datetime").textContent = `${date} ${time}`;
+      }
+      updateCurrentDateTime();
+      setInterval(updateCurrentDateTime, 1000);
+    </script>
   </body>
 </html>
-
-
-
