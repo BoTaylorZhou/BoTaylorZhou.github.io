@@ -50,7 +50,7 @@ redirect_from:
 <section id="news" class="section section--band home-news">
   <div class="section__label"><span>02</span> News</div>
   <div class="section__content">
-    <div class="section-heading"><h2>Latest updates</h2><p>Recent work and milestones.</p></div>
+    <div class="section-heading"><h2>Recent work and milestones</h2><p>Latest updates.</p></div>
     <div class="news-list">
       <article class="news-item"><time>2026.01</time><div><span class="news-tag">Research</span><p><strong>Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety</strong>, led by my graduate student Yufan Wang, has been accepted by the <em>International Journal of Systems Science</em>.</p></div></article>
       <article class="news-item"><time>2024.07</time><div><span class="news-tag">Research</span><p>Our work with Prof. Ronghui Liu, <strong>A generalized rationally inattentive route choice model with nonuniform marginal information costs</strong>, was presented at ISTTT25 and published in <em>Transportation Research Part B</em>.</p></div></article>
