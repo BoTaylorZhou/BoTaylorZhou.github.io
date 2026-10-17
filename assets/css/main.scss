@@ -112,8 +112,13 @@ a:hover { color: var(--accent); }
 .page-hero:after { content: ""; position: absolute; width: 34rem; height: 34rem; top: -24rem; right: -8rem; border: 1px solid rgba(165,42,34,.13); border-radius: 50%; pointer-events: none; }
 .page-hero h1 { position: relative; z-index: 1; max-width: 1100px; margin: 0; color: var(--ink); font-family: var(--display); font-size: clamp(1.9rem, 3vw, 3.3rem); font-weight: 400; line-height: 1.5; letter-spacing: -.035em; }
 .page-hero h1 em { color: var(--accent); font-weight: 400; }
-.page-hero > p:last-child { position: relative; z-index: 1; max-width: 720px; margin: 2rem 0 0; color: var(--muted); font-size: 1.08rem; }
-.page-hero > p:last-child a { color: var(--accent-dark); }
+.page-hero > p:last-child, .page-hero__copy > p:last-child { position: relative; z-index: 1; max-width: 720px; margin: 2rem 0 0; color: var(--muted); font-size: 1.08rem; }
+.page-hero > p:last-child a, .page-hero__copy > p:last-child a { color: var(--accent-dark); }
+.page-hero--with-photo { display: grid; grid-template-columns: minmax(0, 1fr) minmax(240px, 340px); gap: clamp(2.5rem, 6vw, 6rem); align-items: center; }
+.page-hero__copy { position: relative; z-index: 1; min-width: 0; }
+.page-hero__photo { position: relative; z-index: 1; justify-self: end; width: 100%; }
+.page-hero__photo .hero__portrait-frame { background: #f1eee8; border-color: rgba(38,49,58,.2); }
+.page-hero__photo .hero__portrait-frame:before { border-color: rgba(165,42,34,.25); }
 .section--page { min-height: 58vh; }
 .section--page:first-of-type { padding-top: clamp(4.5rem, 7vw, 7rem); }
 
@@ -249,6 +254,8 @@ a:hover { color: var(--accent); }
   .hero { min-height: auto; }
   .hero__inner { grid-template-columns: 1fr; padding-top: 4rem; padding-bottom: 9rem; }
   .hero__portrait-wrap { justify-self: start; max-width: 360px; margin-left: 1.5rem; }
+  .page-hero--with-photo { grid-template-columns: 1fr; }
+  .page-hero__photo { justify-self: start; max-width: 320px; margin: 1rem 0 0 1.5rem; }
   .hero__topics { grid-template-columns: 1fr; position: relative; }
   .hero__topics span { padding: .7rem 1.25rem; border-top: 1px solid var(--rule); }
   .section { grid-template-columns: 1fr; gap: 2rem; }
@@ -272,6 +279,7 @@ a:hover { color: var(--accent); }
   .hero__actions { flex-direction: column; align-items: stretch; }
   .button { justify-content: space-between; }
   .hero__portrait-wrap { width: calc(100% - 1.5rem); }
+  .page-hero__photo { width: calc(100% - 1.5rem); }
   .section { padding: 4.5rem 1.25rem; }
   .section-heading { display: block; }
   .section-heading > p { margin-top: 1rem; }
