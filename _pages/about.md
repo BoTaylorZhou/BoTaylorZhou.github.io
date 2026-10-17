@@ -15,7 +15,7 @@ redirect_from:
     <div class="hero__copy">
       <p class="eyebrow">Professor · Researcher · Collaborator</p>
       <h1>Making better decisions with <em>limited attention.</em></h1>
-      <p class="hero__lead">I am <strong>Bo Zhou</strong>, a professor at Chongqing Jiaotong University. It is my pleasure to welcome you to my personal homepage. </p>
+      <p class="hero__lead">I am <strong>Bo Zhou</strong>, a professor at Chongqing Jiaotong University. It is my pleasure to welcome you to visit my personal homepage. </p>
       <div class="hero__actions">
         <a class="button button--primary" href="/research/">Explore my research </a>
         <a class="button button--ghost" href="/contact/">Start a conversation </a>
