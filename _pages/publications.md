@@ -5,10 +5,15 @@ excerpt: "Selected papers, working papers, and monographs by Bo Zhou."
 author_profile: false
 ---
 
-<header class="page-hero">
-  <p class="eyebrow">Publications</p>
-  <h1>Selected research<br><em>and scholarly work.</em></h1>
-  <p>A selection of published papers, working papers, and monographs. See the <a href="https://scholar.google.com/citations?hl=en&tzom=-480&user=WdbzrFAAAAAJ">full list on Google Scholar</a>.</p>
+<header class="page-hero page-hero--with-photo">
+  <div class="page-hero__copy">
+    <p class="eyebrow">Publications</p>
+    <h1>Selected research<br><em>and scholarly work.</em></h1>
+    <p>A selection of published papers, working papers, and monographs. See the <a href="https://scholar.google.com/citations?hl=en&tzom=-480&user=WdbzrFAAAAAJ">full list on Google Scholar</a>.</p>
+  </div>
+  <div class="page-hero__photo">
+    <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/publications.jpg" alt="Publications"></div>
+  </div>
 </header>
 
 <section class="section section--dark section--page">
@@ -19,7 +24,7 @@ author_profile: false
       <article><span class="pub-year">2020</span><div><span class="pub-type">Electrified Transport · Journal</span><h2 style="font-size: 1.25rem !important;"><a href="https://ieeexplore.ieee.org/document/8984288">Planning PEV fast-charging stations using data-driven distributionally robust optimization approach based on phi-divergence</a></h2><p><strong>Bo Zhou</strong>, Guo Chen (corresponding author), Tingwen Huang, Qiankun Song, Yuefei Yuan · <em>IEEE Transactions on Transportation Electrification, 6(1)(2020): 170-180.</em></p></div></article>
       <article><span class="pub-year">2020</span><div><span class="pub-type">Electrified Transport · Journal</span><h2 style="font-size: 1.25rem !important;"><a href="https://www.sciencedirect.com/science/article/pii/S0306261919321683">Robust chance-constrained programming approach for the planning of fast-charging stations in electrified transportation networks</a></h2><p><strong>Bo Zhou</strong>, Guo Chen (corresponding author), Qiankun Song, Zhao Yang Dong · <em>Applied Energy, 262(2020): 114480.</em></p></div></article>
       <article><span class="pub-year">2020</span><div><span class="pub-type">Transport · Journal</span><h2 style="font-size: 1.25rem !important;"><a href="https://www.sciencedirect.com/science/article/pii/S0096300319308872">A reinforcement learning scheme for the equilibrium of the in-vehicle route choice problem based on congestion game</a></h2><p><strong>Bo Zhou</strong> (corresponding author), Qiankun Song, Zhenjjiang Zhao, Tangzhi Liu · <em>Applied Mathematics and Computation, 371(2020): 124895.</em></p><blockquote><a href="https://www.sciencedirect.com/science/article/pii/S0191261524001218">Yang and Liu</a> highlight this work for defining multi-vehicle adaptive routing as a congestion game and developing a deep reinforcement learning solution.</blockquote></div></article>
-      <article><span class="pub-year">2013</span><div><span class="pub-type">Neural Networks · Journal</span><h2 style="font-size: 1.25rem !important;"><a href="https://ieeexplore.ieee.org/document/6502726">Boundedness and complete stability of complex-valued neural networks with time delay</a></h2><p><strong>Bo Zhou</strong>, Qiankun Song (corresponding author) · <em>IEEE Transactions on Neural Networks and Learning Systems, 24(8)(2013): 1227-1238.</em></p></div></article>
+      <article><span class="pub-year">2013</span><div><span class="pub-type">Neural Networks · Journal</span><h2 style="font-size: 1.25rem !important;"><a href="https://ieeexplore.ieee.org/document/6502726">Boundedness and complete stability of complex-valued neural networks with time delay</a></h2><p><strong>Bo Zhou</strong>, Qiankun Song (corresponding author) · <em>IEEE Transactions on Neural Networks and Learning Systems, 24(8): 1227-1238.</em></p></div></article>
     </div>
   </div>
 </section>

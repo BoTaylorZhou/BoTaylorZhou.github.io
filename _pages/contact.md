@@ -5,10 +5,15 @@ excerpt: "Contact Bo Zhou for research collaboration, proposals, talks, and stud
 author_profile: false
 ---
 
-<header class="page-hero">
-  <p class="eyebrow">Contact</p>
-  <h1>Let’s explore what limited attention <em>can explain.</em></h1>
-  <p>Whether you are a researcher or a student, I welcome new ideas, collaborations, and conversations about the theory and applications of rational inattention.</p>
+<header class="page-hero page-hero--with-photo">
+  <div class="page-hero__copy">
+    <p class="eyebrow">Contact</p>
+    <h1>Let’s explore what limited attention <em>can explain.</em></h1>
+    <p>Whether you are a researcher or a student, I welcome new ideas, collaborations, and conversations about the theory and applications of rational inattention.</p>
+  </div>
+  <div class="page-hero__photo">
+    <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/contact.jpg" alt="Contact"></div>
+  </div>
 </header>
 
 <section class="section section--contact section--page">

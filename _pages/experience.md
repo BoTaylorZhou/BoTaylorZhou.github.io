@@ -5,10 +5,15 @@ excerpt: "Education, appointments, visiting experience, honors, and awards."
 author_profile: false
 ---
 
-<header class="page-hero">
-  <p class="eyebrow">Experience</p>
-  <h1>Education, appointments,<br><em>and recognition.</em></h1>
-  <p>Academic training and research appointments across Chongqing, Qatar, and the United Kingdom.</p>
+<header class="page-hero page-hero--with-photo">
+  <div class="page-hero__copy">
+    <p class="eyebrow">Experience</p>
+    <h1>Education, appointments,<br><em>and recognition.</em></h1>
+    <p>Academic training and research appointments across Chongqing, Qatar, and the United Kingdom.</p>
+  </div>
+  <div class="page-hero__photo">
+    <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/experience.jpg" alt="Experience"></div>
+  </div>
 </header>
 
 <section class="section section--band section--page">
