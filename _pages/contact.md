@@ -13,7 +13,7 @@ author_profile: false
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/contact.jpg" alt="Contact"></div>
-    <div class="hero__note"><strong>Chongqing Jiaotong University</strong><span>Welcome visiting</span></div>
+    <div class="hero__note"><strong>CHONGQING JIAOTONG UNIVERSITY</strong><span>Welcome visiting</span></div>
   </div>
 </header>
 
