@@ -13,7 +13,7 @@ author_profile: false
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/experience.jpg" alt="Experience"></div>
-    <div class="hero__note"><strong>Southwest University</strong></div>
+    <div class="hero__note"><strong>Southwest University, Chongqing, China</strong></div>
   </div>
 </header>
 
