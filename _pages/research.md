@@ -8,8 +8,8 @@ author_profile: false
 <header class="page-hero page-hero--with-photo">
   <div class="page-hero__copy">
     <p class="eyebrow">Research</p>
-    <h1>Rational inattention,<br><em>from theory to application.</em></h1>
-    <p>Originating in the work of Nobel Prize laureate Christopher A. Sims, rational inattention explains how decision-makers optimally acquire and process information when attention is limited and information is costly. Our work studies both Gaussian and non-Gaussian models.</p>
+    <h1>RI,<br><em>from theory to application.</em></h1>
+    <p>Originating in the work of Nobel Prize laureate Christopher A. Sims, RI explains how decision-makers optimally acquire and process information when attention is limited and information is costly. Our work studies both Gaussian and non-Gaussian models.</p>
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/research.jpg" alt="Research"></div>
