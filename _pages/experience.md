@@ -31,7 +31,7 @@ author_profile: false
     <div>
       <div class="section-heading"><h2>Appointments</h2></div>
       <ol class="timeline">
-        <li><time>2016.07 — Present</time><h3>Professor / Faculty Member</h3><p>School of Mathematics and Statistics, Chongqing Jiaotong University</p></li>
+        <li><time>2016.07 — Present</time><h3> Lecturer / Associated Professor / Professor</h3><p>School of Mathematics and Statistics, Chongqing Jiaotong University</p></li>
         <li><time>2022.11 — 2023.11</time><h3>Visiting Scholar</h3><p>Institute for Transport Studies, University of Leeds · hosted by Prof. Ronghui Liu</p></li>
         <li><time>2014.11 — 2015.01</time><h3>Visiting Scholar</h3><p>Science Program, Texas A&amp;M University at Qatar · supervised by Prof. Tingwen Huang</p></li>
       </ol>
