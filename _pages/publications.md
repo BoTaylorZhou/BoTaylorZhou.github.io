@@ -13,6 +13,7 @@ author_profile: false
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/publications.jpg" alt="Publications"></div>
+    <div class="hero__note"><strong>Ideas in print</strong><span>A visual reflection on research, writing, and scholarly exchange</span></div>
   </div>
 </header>
 
