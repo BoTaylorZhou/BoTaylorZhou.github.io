@@ -13,7 +13,7 @@ author_profile: false
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/research.jpg" alt="Research"></div>
-    <div class="hero__note"><strong>Research in motion</strong><span>RI for transport, control and AI</span></div>
+    <div class="hero__note"><strong>RESEARCH in MOTION</strong><span>RI for transport, control and AI</span></div>
   </div>
 </header>
 
