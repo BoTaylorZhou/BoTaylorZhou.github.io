@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Bo Zhou"
-excerpt: "Professor at Chongqing Jiaotong University working on rational inattention in transport, control, and AI."
+excerpt: "Professor at Chongqing Jiaotong University working on rational inattention for transport, control, and AI."
 author_profile: false
 redirect_from:
   - /about/
