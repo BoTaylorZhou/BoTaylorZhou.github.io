@@ -28,7 +28,7 @@ redirect_from:
     </div>
     <div class="hero__portrait-wrap">
       <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/BoZhouDeutsches.jpg" alt="Portrait of Bo Zhou"></div>
-      <div class="hero__note"><span>This is</span><strong>me</strong></div>
+      <div class="hero__note"><span>This is</span></div>
     </div>
   </div>
   <div class="hero__topics" aria-label="Research topics">
