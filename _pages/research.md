@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research · Bo Zhou"
-excerpt: "Research on rational inattention for transportation, control, and artificial intelligence."
+excerpt: "Research on rational inattention for transport, control, and AI."
 author_profile: false
 ---
 
