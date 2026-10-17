@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Bo Zhou"
-excerpt: "Professor at Chongqing Jiaotong University working on rational inattention in transportation, control, and AI."
+excerpt: "Professor at Chongqing Jiaotong University working on rational inattention in transport, control, and AI."
 author_profile: false
 redirect_from:
   - /about/
@@ -15,10 +15,10 @@ redirect_from:
     <div class="hero__copy">
       <p class="eyebrow">Professor · Researcher · Collaborator</p>
       <h1>Making better decisions with <em>limited attention.</em></h1>
-      <p class="hero__lead">I am <strong>Bo Zhou</strong>, a professor at Chongqing Jiaotong University. My work develops rational inattention theory for transportation, control, and artificial intelligence.</p>
+      <p class="hero__lead">I am <strong>Bo Zhou</strong>, a professor at Chongqing Jiaotong University. It is my pleasure to welcome you to my personal homepage. </p>
       <div class="hero__actions">
-        <a class="button button--primary" href="/research/">Explore my research <span aria-hidden="true">↗</span></a>
-        <a class="button button--ghost" href="/contact/">Start a conversation</a>
+        <a class="button button--primary" href="/research/">Explore my research </a>
+        <a class="button button--ghost" href="/contact/">Start a conversation </a>
       </div>
       <ul class="hero__links" aria-label="Professional profiles">
         <li><a href="https://scholar.google.com/citations?hl=en&tzom=-480&user=WdbzrFAAAAAJ">Google Scholar</a></li>
@@ -32,7 +32,7 @@ redirect_from:
     </div>
   </div>
   <div class="hero__topics" aria-label="Research topics">
-    <span>01 · Transport</span><span>02 · Control</span><span>03 · Artificial Intelligence</span>
+    <span>01 · Transport</span><span>02 · Control</span><span>03 · AI</span>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ redirect_from:
   <div class="section__content intro-grid">
     <h2>Research at the intersection of information and decisions.</h2>
     <div class="prose-large">
-      <p>I’m a professor in the <a href="http://math.cqjtu.edu.cn/">School of Mathematics and Statistics</a> at <a href="https://www.cqjtu.edu.cn/">Chongqing Jiaotong University</a>. My current interests include rational inattention (RI), RI for control, RI for transportation, and AI for RI. Previously, I worked on stability theory of neural networks, event-triggered control, and distributed optimization.</p>
+      <p>I’m a professor in the <a href="http://math.cqjtu.edu.cn/">School of Mathematics and Statistics</a> at <a href="https://www.cqjtu.edu.cn/">Chongqing Jiaotong University</a>. My current interests focus on theory and applications of rational inattention (RI), particularly its applications to transport, control and AI. My earlier research focused on the stability analysis of neural networks, event-triggered control, and distributed optimisation.</p>
       <p>My academic journey has been shaped by Prof. <a href="https://www.sciencedirect.com/author/7202973716/qiankun-song">Qiankun Song</a>, Prof. <a href="https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en">Xiaofeng Liao</a>, Prof. <a href="https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en">Tingwen Huang</a>, and Prof. <a href="https://environment.leeds.ac.uk/transport/staff/951/professor-ronghui-liu">Ronghui Liu</a>.</p>
     </div>
   </div>
