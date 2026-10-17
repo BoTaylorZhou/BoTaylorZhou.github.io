@@ -32,7 +32,7 @@ redirect_from:
     </div>
   </div>
   <div class="hero__topics" aria-label="Research topics">
-    <span>01 · RI for Transport</span><span>02 · RI for Control</span><span>03 · RI for AI</span>
+<span>01 · RI <em class="keep-lowercase">for</em> Transport</span><span>02 · RI <em class="keep-lowercase">for</em> Control</span><span>03 · RI <em class="keep-lowercase">for</em> AI</span>
   </div>
 </div>
 
