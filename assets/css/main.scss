@@ -103,6 +103,7 @@ a:hover { color: var(--accent); }
 .hero__note strong { font-family: var(--display); font-size: 1.05rem; }
 .hero__topics { position: absolute; z-index: 2; right: 0; bottom: 0; left: 0; display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid rgba(255,255,255,.16); }
 .hero__topics span { padding: 1.2rem clamp(1rem, 5vw, 5rem); border-right: 1px solid rgba(255,255,255,.16); color: #bac5c0; font-size: .84rem; letter-spacing: .09em; text-transform: uppercase; }
+.hero__topics .keep-lowercase {  font-style: normal;  text-transform: lowercase; }
 .hero__glow { position: absolute; border-radius: 50%; filter: blur(2px); }
 .hero__glow--one { width: 36rem; height: 36rem; top: -22rem; right: -10rem; border: 1px solid rgba(231,161,131,.25); box-shadow: 0 0 8rem rgba(207,95,57,.12); }
 .hero__glow--two { width: 22rem; height: 22rem; bottom: 2rem; left: -15rem; border: 1px solid rgba(155,183,168,.18); }
