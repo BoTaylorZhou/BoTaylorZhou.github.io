@@ -70,7 +70,6 @@ a:hover { color: var(--accent); }
 .greedy-nav .visible-links a:before { height: 2px; background: var(--accent); }
 .greedy-nav button { display: none; margin-left: auto; background: var(--ink); }
 .greedy-nav .hidden-links { border: 0; background: var(--white); box-shadow: 0 1rem 3rem rgba(20,34,30,.15); }
-.mobile-experience-link { display: none; }
 
 #main { max-width: none; margin: 0; padding: 0; }
 .page { float: none; width: 100%; padding: 0; }
@@ -268,7 +267,6 @@ a:hover { color: var(--accent); }
 }
 
 @media (max-width: 620px) {
-  .mobile-experience-link { display: block; }
   .masthead__inner-wrap { padding: .65rem 1rem; }
   .greedy-nav .visible-links { display: flex; }
   .greedy-nav button { display: block; }
