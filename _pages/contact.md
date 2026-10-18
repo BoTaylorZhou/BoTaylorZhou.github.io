@@ -21,6 +21,6 @@ author_profile: false
   <div class="section__label"><span>01</span> Connect</div>
   <div class="section__content contact-grid">
     <div><p class="eyebrow">Research · Proposals · Talks</p><h2>Ideas become stronger through conversation.</h2></div>
-    <div><p>My work connects RI with transport, control, and AI. I am available for joint research, academic talks, workshops, and guest lectures.</p><a class="contact-link" href="mailto:bzhou@cqjtu.edu.cn"><span>Email me</span><small class="contact-link__email" style="font-family: var(--sans); font-size: 18px !important; font-weight: 800;">bzhou@cqjtu.edu.cn</small></a></div>
+    <div><p>My work connects RI with transport, control, and AI. I welcome opportunities for joint research, academic talks, workshops, and guest lectures. I value conversation as an important part of research. Such exchanges offer fresh perspectives, help ideas develop, strengthen methods, and connect theory with real-world questions. I believe that, through thoughtful discussion, early ideas can gradually grow into high-quality papers and meaningful solutions to practical challenges.</p><a class="contact-link" href="mailto:bzhou@cqjtu.edu.cn"><span>Email me</span><small class="contact-link__email" style="font-family: var(--sans); font-size: 18px !important; font-weight: 800;">bzhou@cqjtu.edu.cn</small></a></div>
   </div>
 </section>
