@@ -9,7 +9,7 @@ author_profile: false
   <div class="page-hero__copy">
     <p class="eyebrow">Contact</p>
     <h1>Let’s explore what limited attention <em>can explain.</em></h1>
-    <p>Whether you are a researcher or a student, I welcome new ideas, collaborations, and conversations about the theory and applications of RI.</p>
+    <p>Whether you are a researcher or a student, I welcome new ideas, collaborations, and conversations.</p>
   </div>
   <div class="page-hero__photo">
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/contact.jpg" alt="Contact"></div>
