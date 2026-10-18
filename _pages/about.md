@@ -31,9 +31,7 @@ redirect_from:
       <div class="hero__note"><strong>TAKEN by MY SON at JULY 23, 2026</strong><span>I'm here</span></div>
     </div>
   </div>
-  <div class="hero__topics" aria-label="Research topics">
-<span>01 · RI <em class="keep-lowercase">for</em> Transport</span><span>02 · RI <em class="keep-lowercase">for</em> Control</span><span>03 · RI <em class="keep-lowercase">for</em> AI</span>
-  </div>
+ 
 </div>
 
 <section id="about" class="section section--intro home-intro">
