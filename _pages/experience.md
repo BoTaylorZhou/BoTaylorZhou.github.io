@@ -44,11 +44,11 @@ author_profile: false
   <div class="section__content">
     <div class="section-heading"><h2>Honors &amp; awards</h2><p>Selected professional recognition.</p></div>
     <div class="awards-list">
-      <article><time>2019</time><div><h3>First Prize, Chongqing Natural Science Award</h3><p>Second place winner for research on stability of recurrent neural networks with time delays · Chongqing Municipal Government</p></div></article>
-      <article><time>2019</time><div><h3>Second Prize, MOE Science and Technology Progress Award</h3><p>Second place winner for theory, technology and applications of channel potential improvement for the Three Gorges Reservoir area</p></div></article>
-      <article><time>2019–22</time><div><h3>Bayu Young Scholar</h3><p>Education Commission of Chongqing</p></div></article>
-      <article><time>2019</time><div><h3>Zadeh Best Conference Paper Award Finalist</h3><p>IEEE ICCSS · Planning PEV fast-charging stations: a data-driven distributionally robust optimization approach</p></div></article>
-      <article><time>2016</time><div><h3>Outstanding Natural Science Paper</h3><p>Chongqing Science and Technology Association · Boundedness and complete stability of complex-valued neural networks with time delay</p></div></article>
+      <article><time>2019.09</time><div><h3>First Prize, Chongqing Natural Science Award</h3><p>Second place winner for research on stability of recurrent neural networks with time delays · Chongqing Municipal Government</p></div></article>
+      <article><time>2019.12</time><div><h3>Second Prize, MOE Science and Technology Progress Award</h3><p>Second place winner for theory, technology and applications of channel potential improvement for the Three Gorges Reservoir area</p></div></article>
+      <article><time>2019.12–22.12</time><div><h3>Bayu Young Scholar</h3><p>Education Commission of Chongqing</p></div></article>
+      <article><time>2019.09</time><div><h3>Zadeh Best Conference Paper Award Finalist</h3><p>IEEE ICCSS · Planning PEV fast-charging stations: a data-driven distributionally robust optimization approach</p></div></article>
+      <article><time>2016.12</time><div><h3>Outstanding Natural Science Paper</h3><p>Chongqing Science and Technology Association · Boundedness and complete stability of complex-valued neural networks with time delay</p></div></article>
     </div>
   </div>
 </section>
