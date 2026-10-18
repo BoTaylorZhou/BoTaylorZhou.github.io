@@ -13,12 +13,9 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden">
-  {% for link in site.data.navigation.main %}
-    <li class="masthead__menu-item mobile-nav-item">
-      <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+          <li class="masthead__menu-item mobile-nav-item"><a href="{{ domain }}/">Home</a></li>
+          <li class="masthead__menu-item mobile-nav-item"><a href="{{ domain }}/experience/">Experience</a></li>
+        </ul>
       </nav>
     </div>
   </div>
