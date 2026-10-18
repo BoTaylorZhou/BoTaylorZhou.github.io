@@ -270,9 +270,8 @@ a:hover { color: var(--accent); }
   .masthead__inner-wrap { padding: .65rem 1rem; }
   .greedy-nav .visible-links { display: none; }
   .greedy-nav button { display: block; }
-  .greedy-nav .hidden-links:not(.hidden) { display: flex; flex-direction: column; }
-  .greedy-nav .hidden-links > .mobile-nav-item { order: -1; }
-  .mobile-nav-item { display: block; }  
+  .greedy-nav .hidden-links > li:not(.mobile-nav-item) { display: none !important; }
+  .greedy-nav .hidden-links > .mobile-nav-item { display: block !important; }
   .site-brand { min-width: 0; }
   .site-brand__mark { width: 2.2rem; height: 2.2rem; }
   .hero__inner { padding: 3.5rem 1.25rem 7rem; }
