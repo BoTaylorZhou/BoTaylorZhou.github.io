@@ -15,11 +15,11 @@ author_profile: false
     <div class="hero__portrait-frame"><img class="hero__portrait" src="/images/research.jpg" alt="Research"></div>
     <div class="hero__note"><strong>RESEARCH in MOTION</strong><span>RI for transport, control and AI</span></div>
   </div>
-  </div>
+
   <div class="hero__topics" aria-label="Research topics">
 <span>01 · RI <em class="keep-lowercase">for</em> Transport</span><span>02 · RI <em class="keep-lowercase">for</em> Control</span><span>03 · RI <em class="keep-lowercase">for</em> AI</span>
   </div>
-  </div>
+
 </header>
  
 <section class="section section--page">
