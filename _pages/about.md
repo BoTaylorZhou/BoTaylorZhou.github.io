@@ -37,7 +37,7 @@ redirect_from:
 <section id="about" class="section section--intro home-intro">
   <div class="section__label"><span>01</span> About</div>
   <div class="section__content intro-grid">
-    <h2>Research at the intersection of information and decisions.</h2>
+    <h2>Research at the intersection of economics, transport, automatic control and AI.</h2>
     <div class="prose-large">
       <p>I’m a professor in the <a href="http://math.cqjtu.edu.cn/">School of Mathematics and Statistics</a> at <a href="https://www.cqjtu.edu.cn/">Chongqing Jiaotong University</a>. My current interests focus on theory and applications of rational inattention (RI), particularly its applications to transport, control and AI. My earlier research focused on the stability analysis of neural networks, event-triggered control, and distributed optimisation.</p>
       <p>My academic journey has been shaped by Prof. <a href="https://www.sciencedirect.com/author/7202973716/qiankun-song">Qiankun Song</a>, Prof. <a href="https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en">Xiaofeng Liao</a>, Prof. <a href="https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en">Tingwen Huang</a>, and Prof. <a href="https://environment.leeds.ac.uk/transport/staff/951/professor-ronghui-liu">Ronghui Liu</a>.</p>
