@@ -54,60 +54,34 @@ layout: compress
         <div class="site-footer__copyright">
           <span class="footer-copyright-text">© <span id="current-datetime"></span> · Bo Zhou · Chongqing Jiaotong University</span>
           <span class="footer-visitor-stats">
-            <!-- Original Busuanzi: preserve the existing total-visit counter -->
+            <!-- Busuanzi: total page views since install -->
             <span id="busuanzi_container_site_pv">Total Visits: <span id="busuanzi_value_site_pv"></span></span>
-            <!-- GoatCounter reports views for a date range, not guaranteed unique visitors. -->
-            <span id="daily-counter-wrapper" hidden>· Today Visits: <span id="daily-counter-result">—</span></span>
+            <span id="daily-counter-wrapper" hidden>· Today Visits: <img id="daily-counter-img" alt="daily visits" style="height:1.4em;vertical-align:middle;border:0"></span>
           </span>
         </div>
         <!-- Keep the ORIGINAL Busuanzi service for the historical total. -->
         <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         <!--
-          DAILY COUNTER SETUP:
-          1. Register a (free, non-commercial) GoatCounter site at https://www.goatcounter.com/signup
-             and choose the code "botaylorzhou" -> your site becomes https://botaylorzhou.goatcounter.com
-          2. The value below must be ONLY the site code (letters/digits/hyphens), NOT a full URL.
+          DAILY VISIT COUNTER (Moe Counter, no registration needed):
+          - Each day gets its own counter id "<prefix>-daily-YYYY-MM-DD", so the number
+            shown is that day's page views. The day boundary is Beijing time (UTC+8).
+          - Every page load increments today's counter (same behaviour as Busuanzi).
+          - If the service is unreachable, the whole "Today Visits" part stays hidden.
+          - Style: change theme= below. Neutral themes: normal-1, normal-2, morden-num,
+            3d-num, green, original-new. Full list: github.com/journey-ad/Moe-Counter
         -->
         <script>
           (function () {
-            const goatcounterSiteCode = "botaylorzhou"; // just the code, e.g. "botaylorzhou"
-            if (!goatcounterSiteCode) return;
-            if (!/^[a-zA-Z0-9-]+$/.test(goatcounterSiteCode)) return;
-
+            const counterPrefix = "botaylorzhou"; // your site's unique id prefix
             const wrapper = document.getElementById("daily-counter-wrapper");
-            const counter = document.getElementById("daily-counter-result");
-            // GoatCounter aggregates per UTC day (SiteTotalUTC), so use the UTC date
-            // to make start/end match what the server counts.
-            const localDate = new Date().toISOString().slice(0, 10);
-            wrapper.hidden = false;
+            const img = document.getElementById("daily-counter-img");
+            if (!wrapper || !img) return;
 
-            const script = document.createElement("script");
-            script.src = "https://gc.zgo.at/count.js";
-            script.async = true;
-            script.dataset.goatcounter = "https://" + goatcounterSiteCode + ".goatcounter.com/count";
-            script.onload = function () {
-              if (!window.goatcounter || !window.goatcounter.visit_count) return;
-              try {
-                window.goatcounter.visit_count({
-                  append: "#daily-counter-result",
-                  type: "html",
-                  path: "TOTAL",
-                  start: localDate,
-                  end: localDate,
-                  no_branding: true
-                });
-                // Remove the initial dash once GoatCounter renders its counter.
-                const observer = new MutationObserver(function () {
-                  if (counter.querySelector("#gcvc-views")) {
-                    counter.firstChild && counter.firstChild.nodeType === 3 && (counter.firstChild.textContent = "");
-                    observer.disconnect();
-                  }
-                });
-                observer.observe(counter, {childList: true, subtree: true});
-              } catch (error) { counter.textContent = "—"; }
-            };
-            script.onerror = function () { counter.textContent = "—"; };
-            document.head.appendChild(script);
+            const beijingDate = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date());
+            img.addEventListener("load", function () { wrapper.hidden = false; });
+            img.addEventListener("error", function () { wrapper.hidden = true; });
+            img.src = "https://count.getloli.com/get/@" + counterPrefix + "-daily-" + beijingDate +
+                      "?theme=normal-1&padding=0&scale=1&pixelated=1&darkmode=auto";
           })();
         </script>
       </div>
