@@ -56,12 +56,60 @@ layout: compress
           <span class="footer-visitor-stats">
             <!-- Original Busuanzi: preserve the existing total-visit counter -->
             <span id="busuanzi_container_site_pv">Total Visits: <span id="busuanzi_value_site_pv"></span></span>
-            <span>· Today Visitors: <span id="busuanzi_today_uv"></span></span>
+            <!-- GoatCounter reports views for a date range, not guaranteed unique visitors. -->
+            <span id="daily-counter-wrapper" hidden>· Today Visits: <span id="daily-counter-result">—</span></span>
           </span>
         </div>
-        <!-- Keep the existing counter services unchanged -->
+        <!-- Keep the ORIGINAL Busuanzi service for the historical total. -->
         <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
+        <!--
+          OPTIONAL DAILY COUNTER SETUP:
+          1. Create a GoatCounter site at https://www.goatcounter.com/.
+          2. Replace the empty string below with YOUR GoatCounter site code.
+          3. GoatCounter's public counter counts views, not exact unique visitors.
+          The daily count starts with the new service; old daily data is unavailable.
+        -->
+        <script>
+          (function () {
+            const goatcounterSiteCode = ""; // e.g. "my-unique-site-code" (must be registered)
+            if (!goatcounterSiteCode) return;
+            if (!/^[a-zA-Z0-9-]+$/.test(goatcounterSiteCode)) return;
+
+            const wrapper = document.getElementById("daily-counter-wrapper");
+            const counter = document.getElementById("daily-counter-result");
+            const today = new Date();
+            const localDate = [today.getFullYear(), String(today.getMonth() + 1).padStart(2, "0"), String(today.getDate()).padStart(2, "0")].join("-");
+            wrapper.hidden = false;
+
+            const script = document.createElement("script");
+            script.src = "https://gc.zgo.at/count.js";
+            script.async = true;
+            script.dataset.goatcounter = "https://" + goatcounterSiteCode + ".goatcounter.com/count";
+            script.onload = function () {
+              if (!window.goatcounter || !window.goatcounter.visit_count) return;
+              try {
+                window.goatcounter.visit_count({
+                  append: "#daily-counter-result",
+                  type: "html",
+                  path: "TOTAL",
+                  start: localDate,
+                  end: localDate,
+                  no_branding: true
+                });
+                // Remove the initial dash once GoatCounter renders its counter.
+                const observer = new MutationObserver(function () {
+                  if (counter.querySelector("#gcvc-views")) {
+                    counter.firstChild && counter.firstChild.nodeType === 3 && (counter.firstChild.textContent = "");
+                    observer.disconnect();
+                  }
+                });
+                observer.observe(counter, {childList: true, subtree: true});
+              } catch (error) { counter.textContent = "—"; }
+            };
+            script.onerror = function () { counter.textContent = "—"; };
+            document.head.appendChild(script);
+          })();
+        </script>
       </div>
     </footer>
     <script>
