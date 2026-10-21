@@ -50,8 +50,8 @@ redirect_from:
   <div class="section__content">
     <div class="section-heading"><h2>Recent work and milestones</h2><p>Latest updates.</p></div>
     <div class="news-list">
-      <article class="news-item"><time>2026.01</time><div><span class="news-tag">Research</span><p>Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety, led by my graduate student Yufan Wang, has been accepted by the <em>International Journal of Systems Science</em>.</p></div></article>
-      <article class="news-item"><time>2024.07</time><div><span class="news-tag">Research</span><p>Our work with Prof. Ronghui Liu, A generalized rationally inattentive route choice model with nonuniform marginal information costs, was (podium) presented at ISTTT25 and published in <em>Transportation Research Part B</em>.</p></div></article>
+      <article class="news-item"><time>2026.01</time><div><span class="news-tag">Research</span><p><span style="color: #C00000;">Optimal planning of fast-charging stations with spatiotemporal heterogeneous range anxiety</span>, led by my graduate student Yufan Wang, has been accepted by the <em>International Journal of Systems Science</em>.</p></div></article>
+      <article class="news-item"><time>2024.07</time><div><span class="news-tag">Research</span><p>Our work with Prof. Ronghui Liu, <span style="color: #C00000;">A generalized rationally inattentive route choice model with nonuniform marginal information costs</span>, was (podium) presented at ISTTT25 and published in <em>Transportation Research Part B</em>.</p></div></article>
     </div>
   </div>
 </section>
