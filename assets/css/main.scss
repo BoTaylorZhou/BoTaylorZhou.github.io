@@ -210,6 +210,28 @@ a:hover { color: var(--accent); }
 .footer-nav a { display: inline-block; margin: -.35rem 0 .2rem; padding: .4rem 0; color: var(--accent-dark); font-size: 1.05rem; line-height: 1.45; text-decoration-color: rgba(165,42,34,.35); text-underline-offset: .22em; }
 .footer-nav a:hover, .footer-nav a:focus { color: #c13a30; text-decoration-thickness: 2px; }
 .site-footer__copyright { padding-top: 2rem; color: #70787c; font-size: .95rem; }
+/* Footer counters: copyright on the left, visitors at the far right. */
+.site-footer__copyright {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5rem 1.5rem;
+}
+.footer-copyright-text { min-width: 0; }
+.footer-visitor-stats {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .3rem;
+  margin-left: auto;
+  text-align: right;
+}
+@media (max-width: 620px) {
+  .site-footer__copyright { flex-direction: column; align-items: center; text-align: center; }
+  .footer-visitor-stats { margin-left: 0; justify-content: center; text-align: center; }
+}
+
 
 /* Light visual system inspired by the reference academic site. */
 .hero { color: var(--ink); background: var(--paper); border-bottom: 1px solid var(--rule); }
