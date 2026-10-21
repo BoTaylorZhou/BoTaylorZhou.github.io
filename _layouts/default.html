@@ -53,8 +53,23 @@ layout: compress
         </section>
         <div class="site-footer__copyright">
           © <span id="current-datetime"></span> · Bo Zhou · Chongqing Jiaotong University
-          · <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">Total Visits: <span id="busuanzi_value_site_pv"></span></span>
-        </div>
+          
+          <!-- 原版不蒜子：保留历史累计访问量 -->
+          <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+          <span id="busuanzi_container_site_pv">
+          Total Visits:
+          <span id="busuanzi_value_site_pv"></span>
+          </span>
+
+          <!-- 新版不蒜子：统计今日独立访客数 -->
+          <script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
+
+          <span>
+          · Today Visitors:
+          <span id="busuanzi_today_uv">Loading...</span>
+          </span>        
+         </div>
       </div>
     </footer>
     <script>
