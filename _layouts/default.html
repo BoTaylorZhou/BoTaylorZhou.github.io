@@ -63,22 +63,22 @@ layout: compress
         <!-- Keep the ORIGINAL Busuanzi service for the historical total. -->
         <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         <!--
-          OPTIONAL DAILY COUNTER SETUP:
-          1. Create a GoatCounter site at https://www.goatcounter.com/.
-          2. Replace the empty string below with YOUR GoatCounter site code.
-          3. GoatCounter's public counter counts views, not exact unique visitors.
-          The daily count starts with the new service; old daily data is unavailable.
+          DAILY COUNTER SETUP:
+          1. Register a (free, non-commercial) GoatCounter site at https://www.goatcounter.com/signup
+             and choose the code "botaylorzhou" -> your site becomes https://botaylorzhou.goatcounter.com
+          2. The value below must be ONLY the site code (letters/digits/hyphens), NOT a full URL.
         -->
         <script>
           (function () {
-            const goatcounterSiteCode = "botaylorzhou"; // e.g. "my-unique-site-code" (must be registered)
+            const goatcounterSiteCode = "botaylorzhou"; // just the code, e.g. "botaylorzhou"
             if (!goatcounterSiteCode) return;
             if (!/^[a-zA-Z0-9-]+$/.test(goatcounterSiteCode)) return;
 
             const wrapper = document.getElementById("daily-counter-wrapper");
             const counter = document.getElementById("daily-counter-result");
-            const today = new Date();
-            const localDate = [today.getFullYear(), String(today.getMonth() + 1).padStart(2, "0"), String(today.getDate()).padStart(2, "0")].join("-");
+            // GoatCounter aggregates per UTC day (SiteTotalUTC), so use the UTC date
+            // to make start/end match what the server counts.
+            const localDate = new Date().toISOString().slice(0, 10);
             wrapper.hidden = false;
 
             const script = document.createElement("script");
