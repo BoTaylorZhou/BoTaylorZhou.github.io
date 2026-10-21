@@ -389,3 +389,11 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* GoatCounter's optional daily visits statistic, inline with existing footer text. */
+#daily-counter-wrapper[hidden] { display: none !important; }
+#daily-counter-result .gcvc { display: inline; }
+#daily-counter-result > div { display: inline !important; padding: 0 !important; margin: 0 !important; border: 0 !important; background: transparent !important; box-shadow: none !important; color: inherit !important; font: inherit !important; }
+#daily-counter-result #gcvc-for,
+#daily-counter-result #gcvc-by { display: none !important; }
+#daily-counter-result #gcvc-views { display: inline !important; font: inherit !important; color: inherit !important; }
