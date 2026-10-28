@@ -54,38 +54,42 @@ layout: compress
         <div class="site-footer__copyright">
           <span class="footer-copyright-text">© <span id="current-datetime"></span> · Bo Zhou · Chongqing Jiaotong University</span>
           <span class="footer-visitor-stats">
-            <!-- Busuanzi: total page views since install -->
-            <span id="busuanzi_container_site_pv">Total Visits: <span id="busuanzi_value_site_pv"></span></span>
+            <!-- Busuanzi (busuanzi.ibruce.info) has been unstable/502 since Oct 2026; both counters now use Moe Counter. -->
+            <span id="total-counter-wrapper" hidden>Total Visits: <span id="total-counter-result">0</span></span>
             <span id="daily-counter-wrapper" hidden>· Today Visits: <span id="daily-counter-result">0</span></span>
           </span>
         </div>
-        <!-- Keep the ORIGINAL Busuanzi service for the historical total. -->
-        <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         <!--
-          DAILY VISIT COUNTER (Moe Counter JSON API, no registration needed):
-          - Each day has its own counter id "<prefix>-daily-YYYY-MM-DD" (Beijing time, UTC+8),
-            so the number shown is that day's page views.
+          VISIT COUNTERS (Moe Counter JSON API, no registration needed):
           - GET /record/@name returns JSON {name, num} and increments the counter.
-            The number is rendered as plain text, inheriting the site font.
-          - If the service is unreachable, the whole "Today Visits" part stays hidden.
+            Numbers are rendered as plain text, inheriting the site font.
+          - Total: counter id "botaylorzhou-total" (cumulative; started at 0 when migrated).
+          - Daily: counter id "botaylorzhou-daily-YYYY-MM-DD" (Beijing time, UTC+8),
+            so the number shown is that day's page views.
+          - If the service is unreachable, the affected part stays hidden.
         -->
         <script>
           (function () {
             const counterPrefix = "botaylorzhou"; // your site's unique id prefix
-            const wrapper = document.getElementById("daily-counter-wrapper");
-            const counter = document.getElementById("daily-counter-result");
-            if (!wrapper || !counter) return;
-
             const beijingDate = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date());
-            const counterName = counterPrefix + "-daily-" + beijingDate;
+            const counters = [
+              { name: counterPrefix + "-total", wrapper: "total-counter-wrapper", result: "total-counter-result" },
+              { name: counterPrefix + "-daily-" + beijingDate, wrapper: "daily-counter-wrapper", result: "daily-counter-result" }
+            ];
 
-            fetch("https://count.getloli.com/record/@" + counterName + "?_=" + Date.now())
-              .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-              .then(function (data) {
-                counter.textContent = data.num;
-                wrapper.hidden = false;
-              })
-              .catch(function () { wrapper.hidden = true; });
+            counters.forEach(function (c) {
+              const wrapper = document.getElementById(c.wrapper);
+              const result = document.getElementById(c.result);
+              if (!wrapper || !result) return;
+
+              fetch("https://count.getloli.com/record/@" + c.name + "?_=" + Date.now())
+                .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+                .then(function (data) {
+                  result.textContent = data.num;
+                  wrapper.hidden = false;
+                })
+                .catch(function () { wrapper.hidden = true; });
+            });
           })();
         </script>
       </div>
