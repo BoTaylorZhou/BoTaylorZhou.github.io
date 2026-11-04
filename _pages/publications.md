@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications · Bo Zhou"
-excerpt: "Selected papers, working papers, and monographs by Bo Zhou."
+excerpt: "Selected papers, monographs, and working papers by Bo Zhou."
 author_profile: false
 ---
 
