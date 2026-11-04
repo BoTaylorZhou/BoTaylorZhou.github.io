@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications · Bo Zhou"
-excerpt: "Selected papers, monographs, and working papers by Bo Zhou."
+excerpt: "Selected papers, working papers, and monographs by Bo Zhou."
 author_profile: false
 ---
 
@@ -31,44 +31,29 @@ author_profile: false
 </section>
 
 <section class="section section--page">
-  <div class="section__label">02 Monographs &amp; Working papers</div>
+  <div class="section__label"><span>02</span> Monographs</div>
   <div class="section__content secondary-publications secondary-publications--light">
-    <style>
-      .pub-two-col {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 2.5rem;
-        align-items: start;
-      }
-      .pub-two-col h2 {
-        margin-top: 0;
-        margin-bottom: 1rem;
-      }
-      .pub-two-col ul {
-        padding-left: 1.25rem;
-        margin: 0;
-      }
-      .pub-two-col li {
-        margin-bottom: 1rem;
-      }
-      @media (max-width: 720px) {
-        .pub-two-col { grid-template-columns: 1fr; }
-      }
-    </style>
-    <div class="pub-two-col">
-      <div>
-        <h2>Monographs</h2>
-        <ul>
-          <li><a href="https://www.ecsponline.com/goods.php?id=236235">Control and estimation of complex systems under transmission constraints.</a> Bing Li, <strong>Bo Zhou</strong>, Qiankun Song, Zidong Wang. Science Press, 2026 (in Chinese).</li>
-          <li><a href="https://link.springer.com/book/10.1007/978-981-33-4528-7">Distributed optimization, game and learning algorithms—Theory and applications in smart grid systems.</a> Huiwei Wang, Huaqing Li, <strong>Bo Zhou</strong>. Springer, 2021.</li>
-        </ul>
-      </div>
-      <div>
-        <h2>Working papers</h2>
-        <ul>
-          <li>Theory and applications of rational inattention: A review. <strong>Bo Zhou</strong>, Ronghui Liu (corresponding author). Submitted October 1, 2026.</li>
-          <li>Rationally inattentive route choice: A link-based model. <strong>Bo Zhou</strong>, Ronghui Liu (corresponding author). Submitted June 26, 2026.</li>
-          <li>Multi-stage planning of fast-charging stations using distributionally robust optimization. Wanqing Jiang, Yuefei Yuan, <strong>Bo Zhou</strong> (corresponding author), Qiankun Song. Submitted July 8, 2025.</li>
-        </ul>
-      </div>
+    <div>
+      <h2>Monographs</h2>
+      <ul>
+        <li><a href="https://www.ecsponline.com/goods.php?id=236235">Control and estimation of complex systems under transmission constraints.</a> Bing Li, <strong>Bo Zhou</strong>, Qiankun Song, Zidong Wang. Science Press, 2026 (in Chinese).</li>
+        <li><a href="https://link.springer.com/book/10.1007/978-981-33-4528-7">Distributed optimization, game and learning algorithms—Theory and applications in smart grid systems.</a> Huiwei Wang, Huaqing Li, <strong>Bo Zhou</strong>. Springer, 2021.</li>
+      </ul>
     </div>
+  </div>
+</section>
+
+<section class="section section--page">
+  <div class="section__label"><span>03</span> Working papers</div>
+  <div class="section__content secondary-publications secondary-publications--light">
+    <div>
+      <h2>Working papers</h2>
+      <ul>
+        <li><span style="color: #800000;">Theory and applications of rational inattention: A review</span>. <strong>Bo Zhou</strong>, Ronghui Liu (corresponding author). Submitted October 1, 2026.</li>
+        <li><span style="color: #800000;">Rationally inattentive route choice: A link-based model</span>. <strong>Bo Zhou</strong>, Ronghui Liu (corresponding author). Submitted June 26, 2026.</li>
+        <li><span style="color: #800000;">Multi-stage planning of fast-charging stations using distributionally robust optimization</span>. Wanqing Jiang, Yuefei Yuan, <strong>Bo Zhou</strong> (corresponding author), Qiankun Song. Submitted July 8, 2025.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
