@@ -31,7 +31,7 @@ author_profile: false
 </section>
 
 <section class="section section--page">
-  <div class="section__label"><span>02</span> Monographs</div>
+  <div class="section__label"><span>02</span> Monographs &amp; Working papers</div>
   <div class="section__content secondary-publications secondary-publications--light">
     <div>
       <h2>Monographs</h2>
@@ -40,12 +40,6 @@ author_profile: false
         <li><a href="https://link.springer.com/book/10.1007/978-981-33-4528-7">Distributed optimization, game and learning algorithms—Theory and applications in smart grid systems.</a> Huiwei Wang, Huaqing Li, <strong>Bo Zhou</strong>. Springer, 2021.</li>
       </ul>
     </div>
-  </div>
-</section>
-
-<section class="section section--page">
-  <div class="section__label"><span>03</span> Working papers</div>
-  <div class="section__content secondary-publications secondary-publications--light">
     <div>
       <h2>Working papers</h2>
       <ul>
